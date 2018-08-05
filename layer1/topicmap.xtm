@@ -13,12 +13,19 @@
 		<subjectIdentifier href="http://wandora.org/si/core/wandora-class"/>
 	</topic>
 	<topic id="topic2.1533370103039">
-		<subjectIdentifier href="http://wandora.org/si/temp/1533370103039-0"/>
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Abkhazia"/>
 		<instanceOf>
 			<topicRef href="#topic0.1533369962675"/>
 		</instanceOf>
 		<name>
 			<value>Abkhazia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Abkhazia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic3.1533370104720">
@@ -37,6 +44,13 @@
 		</instanceOf>
 		<name>
 			<value>Albania</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Albania</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic7.1533370265949">
@@ -46,6 +60,13 @@
 		</instanceOf>
 		<name>
 			<value>Algeria</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Algeria</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic8.1533370328798">
@@ -55,6 +76,13 @@
 		</instanceOf>
 		<name>
 			<value>Andorra</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Andorra</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic9.1533370431940">
@@ -64,6 +92,13 @@
 		</instanceOf>
 		<name>
 			<value>Angola</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Angola</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic10.1533370458128">
@@ -73,6 +108,13 @@
 		</instanceOf>
 		<name>
 			<value>Antigua and Barbuda</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Antigua and Barbuda</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic11.1533370480842">
@@ -82,6 +124,13 @@
 		</instanceOf>
 		<name>
 			<value>Argentina</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Argentina</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic12.1533370519352">
@@ -91,15 +140,29 @@
 		</instanceOf>
 		<name>
 			<value>Armenia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Armenia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic13.1533370555005">
-		<subjectIdentifier href="http://wandora.org/si/temp/1533370555005-1"/>
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Republic_of_Artsakh"/>
 		<instanceOf>
 			<topicRef href="#topic0.1533369962675"/>
 		</instanceOf>
 		<name>
 			<value>Artsakh</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Artsakh</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic14.1533370589586">
@@ -109,6 +172,13 @@
 		</instanceOf>
 		<name>
 			<value>Australia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Australia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic15.1533370650096">
@@ -118,6 +188,13 @@
 		</instanceOf>
 		<name>
 			<value>Austria</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Austria</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic16.1533370686942">
@@ -127,6 +204,13 @@
 		</instanceOf>
 		<name>
 			<value>Azerbaijan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Azerbaijan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic17.1533370719626">
@@ -136,6 +220,13 @@
 		</instanceOf>
 		<name>
 			<value>Bahamas</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bahamas</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic18.1533370741438">
@@ -145,6 +236,13 @@
 		</instanceOf>
 		<name>
 			<value>Bahrain</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bahrain</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic19.1533370783387">
@@ -154,6 +252,13 @@
 		</instanceOf>
 		<name>
 			<value>Bangladesh</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bangladesh</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic20.1533371039598">
@@ -163,6 +268,13 @@
 		</instanceOf>
 		<name>
 			<value>Barbados</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Barbados</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic0.1533483185439">
@@ -172,6 +284,13 @@
 		</instanceOf>
 		<name>
 			<value>Belarus</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Belarus</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic1.1533483223323">
@@ -181,6 +300,13 @@
 		</instanceOf>
 		<name>
 			<value>Belgium</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Belgium</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic2.1533483251022">
@@ -190,6 +316,13 @@
 		</instanceOf>
 		<name>
 			<value>Belize</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Belize</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic3.1533483298341">
@@ -199,6 +332,13 @@
 		</instanceOf>
 		<name>
 			<value>Benin</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Benin</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic4.1533483328529">
@@ -208,6 +348,13 @@
 		</instanceOf>
 		<name>
 			<value>Bhutan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bhutan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic5.1533483364230">
@@ -217,6 +364,13 @@
 		</instanceOf>
 		<name>
 			<value>Bolivia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bolivia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic6.1533483388273">
@@ -226,6 +380,13 @@
 		</instanceOf>
 		<name>
 			<value>Bosnia and Herzegovina</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bosnia and Herzegovina</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic7.1533483418045">
@@ -235,6 +396,13 @@
 		</instanceOf>
 		<name>
 			<value>Botswana</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Botswana</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic8.1533483445153">
@@ -244,6 +412,13 @@
 		</instanceOf>
 		<name>
 			<value>Brazil</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Brazil</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic9.1533483471036">
@@ -253,6 +428,13 @@
 		</instanceOf>
 		<name>
 			<value>Brunei</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Brunei</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic10.1533483515426">
@@ -262,6 +444,13 @@
 		</instanceOf>
 		<name>
 			<value>Bulgaria</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Bulgaria</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic11.1533483545990">
@@ -271,6 +460,13 @@
 		</instanceOf>
 		<name>
 			<value>Burkina Faso</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Burkina Faso</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic12.1533483581428">
@@ -280,6 +476,13 @@
 		</instanceOf>
 		<name>
 			<value>Burundi</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Burundi</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic13.1533483605814">
@@ -289,6 +492,13 @@
 		</instanceOf>
 		<name>
 			<value>Cambodia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Cambodia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic14.1533483634603">
@@ -298,6 +508,13 @@
 		</instanceOf>
 		<name>
 			<value>Cameroon</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Cameroon</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic15.1533483657591">
@@ -307,6 +524,13 @@
 		</instanceOf>
 		<name>
 			<value>Canada</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Canada</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic16.1533483691522">
@@ -316,6 +540,13 @@
 		</instanceOf>
 		<name>
 			<value>Cape Verde</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Cape Verde</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic17.1533483715830">
@@ -325,6 +556,13 @@
 		</instanceOf>
 		<name>
 			<value>Central African Republic</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Central African Republic</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic18.1533483748472">
@@ -334,6 +572,13 @@
 		</instanceOf>
 		<name>
 			<value>Chad</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Chad</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic19.1533484234082">
@@ -343,6 +588,13 @@
 		</instanceOf>
 		<name>
 			<value>Chile</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Chile</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic20.1533484258789">
@@ -352,6 +604,13 @@
 		</instanceOf>
 		<name>
 			<value>China</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>China</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic21.1533484304220">
@@ -361,6 +620,13 @@
 		</instanceOf>
 		<name>
 			<value>Colombia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Colombia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic22.1533484338681">
@@ -370,6 +636,13 @@
 		</instanceOf>
 		<name>
 			<value>Comoros</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Comoros</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic23.1533484381477">
@@ -379,6 +652,13 @@
 		</instanceOf>
 		<name>
 			<value>Congo, Democratic Republic of the</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Congo, Democratic Republic of the</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic24.1533484408522">
@@ -388,15 +668,29 @@
 		</instanceOf>
 		<name>
 			<value>Congo, Republic of the</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Congo, Republic of the</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic25.1533484442543">
-		<subjectIdentifier href="http://wandora.org/si/temp/1533484442543-0"/>
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cook_Islands"/>
 		<instanceOf>
 			<topicRef href="#topic0.1533369962675"/>
 		</instanceOf>
 		<name>
 			<value>Cook Islands</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Cook Islands</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic26.1533484475396">
@@ -406,6 +700,13 @@
 		</instanceOf>
 		<name>
 			<value>Costa Rica</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Costa Rica</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic27.1533484518569">
@@ -415,6 +716,13 @@
 		</instanceOf>
 		<name>
 			<value>Croatia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Croatia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic28.1533484541996">
@@ -424,6 +732,13 @@
 		</instanceOf>
 		<name>
 			<value>Cuba</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Cuba</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic29.1533484570057">
@@ -433,6 +748,13 @@
 		</instanceOf>
 		<name>
 			<value>Cyprus</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Cyprus</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic30.1533484597451">
@@ -442,6 +764,13 @@
 		</instanceOf>
 		<name>
 			<value>Czech Republic</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Czech Republic</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic31.1533484630593">
@@ -451,6 +780,13 @@
 		</instanceOf>
 		<name>
 			<value>Denmark</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Denmark</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic32.1533484655386">
@@ -460,6 +796,13 @@
 		</instanceOf>
 		<name>
 			<value>Djibouti</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Djibouti</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic33.1533484679255">
@@ -469,6 +812,13 @@
 		</instanceOf>
 		<name>
 			<value>Dominica</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Dominica</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic34.1533484700418">
@@ -478,6 +828,13 @@
 		</instanceOf>
 		<name>
 			<value>Dominican Republic</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Dominican Republic</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic35.1533484725271">
@@ -487,6 +844,13 @@
 		</instanceOf>
 		<name>
 			<value>East Timor</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>East Timor</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic36.1533484753489">
@@ -496,6 +860,13 @@
 		</instanceOf>
 		<name>
 			<value>Ecuador</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Ecuador</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic37.1533484781701">
@@ -505,6 +876,13 @@
 		</instanceOf>
 		<name>
 			<value>Egypt</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Egypt</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic38.1533484807064">
@@ -514,6 +892,13 @@
 		</instanceOf>
 		<name>
 			<value>El Salvador</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>El Salvador</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic39.1533484840997">
@@ -523,6 +908,13 @@
 		</instanceOf>
 		<name>
 			<value>Equatorial Guinea</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Equatorial Guinea</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic40.1533484865344">
@@ -532,6 +924,13 @@
 		</instanceOf>
 		<name>
 			<value>Eritrea</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Eritrea</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic41.1533484888051">
@@ -541,6 +940,13 @@
 		</instanceOf>
 		<name>
 			<value>Estonia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Estonia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic42.1533484914487">
@@ -550,6 +956,13 @@
 		</instanceOf>
 		<name>
 			<value>Ethiopia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Ethiopia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic43.1533484934466">
@@ -559,6 +972,13 @@
 		</instanceOf>
 		<name>
 			<value>Fiji</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Fiji</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic44.1533484963509">
@@ -568,6 +988,13 @@
 		</instanceOf>
 		<name>
 			<value>Finland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Finland</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic45.1533486001516">
@@ -577,6 +1004,13 @@
 		</instanceOf>
 		<name>
 			<value>France</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>France</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic46.1533486025303">
@@ -586,6 +1020,13 @@
 		</instanceOf>
 		<name>
 			<value>Gabon</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Gabon</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic47.1533486050074">
@@ -595,6 +1036,13 @@
 		</instanceOf>
 		<name>
 			<value>Gambia, The</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Gambia, The</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic48.1533486078447">
@@ -604,6 +1052,13 @@
 		</instanceOf>
 		<name>
 			<value>Georgia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Georgia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic49.1533486103105">
@@ -613,6 +1068,13 @@
 		</instanceOf>
 		<name>
 			<value>Germany</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Germany</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic50.1533486129685">
@@ -622,6 +1084,13 @@
 		</instanceOf>
 		<name>
 			<value>Ghana</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Ghana</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic51.1533486152669">
@@ -631,6 +1100,13 @@
 		</instanceOf>
 		<name>
 			<value>Greece</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Greece</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic52.1533486173734">
@@ -640,6 +1116,13 @@
 		</instanceOf>
 		<name>
 			<value>Grenada</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Grenada</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic53.1533486199015">
@@ -649,6 +1132,13 @@
 		</instanceOf>
 		<name>
 			<value>Guatemala</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Guatemala</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic54.1533486235852">
@@ -658,6 +1148,13 @@
 		</instanceOf>
 		<name>
 			<value>Guinea</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Guinea</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic55.1533486256838">
@@ -667,6 +1164,13 @@
 		</instanceOf>
 		<name>
 			<value>Guinea-Bissau</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Guinea-Bissau</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic56.1533486290788">
@@ -676,6 +1180,13 @@
 		</instanceOf>
 		<name>
 			<value>Guyana</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Guyana</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic57.1533486313558">
@@ -685,6 +1196,13 @@
 		</instanceOf>
 		<name>
 			<value>Haiti</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Haiti</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic58.1533486343234">
@@ -694,6 +1212,13 @@
 		</instanceOf>
 		<name>
 			<value>Honduras</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Honduras</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic59.1533486367981">
@@ -703,6 +1228,13 @@
 		</instanceOf>
 		<name>
 			<value>Hungary</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Hungary</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic60.1533486398042">
@@ -712,6 +1244,13 @@
 		</instanceOf>
 		<name>
 			<value>Iceland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Iceland</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic61.1533486425645">
@@ -721,6 +1260,13 @@
 		</instanceOf>
 		<name>
 			<value>India</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>India</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic62.1533486454449">
@@ -730,6 +1276,13 @@
 		</instanceOf>
 		<name>
 			<value>Indonesia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Indonesia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic63.1533486476860">
@@ -739,6 +1292,13 @@
 		</instanceOf>
 		<name>
 			<value>Iran</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Iran</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic64.1533486500528">
@@ -748,6 +1308,13 @@
 		</instanceOf>
 		<name>
 			<value>Iraq</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Iraq</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic65.1533486530476">
@@ -757,6 +1324,13 @@
 		</instanceOf>
 		<name>
 			<value>Ireland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Ireland</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic66.1533486558391">
@@ -766,6 +1340,13 @@
 		</instanceOf>
 		<name>
 			<value>Israel</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Israel</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic67.1533486582666">
@@ -775,6 +1356,13 @@
 		</instanceOf>
 		<name>
 			<value>Italy</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Italy</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic68.1533486613238">
@@ -784,6 +1372,13 @@
 		</instanceOf>
 		<name>
 			<value>Ivory Coast</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Ivory Coast</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic69.1533486633338">
@@ -793,6 +1388,13 @@
 		</instanceOf>
 		<name>
 			<value>Jamaica</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Jamaica</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic70.1533486657189">
@@ -802,6 +1404,13 @@
 		</instanceOf>
 		<name>
 			<value>Japan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Japan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic71.1533486680288">
@@ -811,6 +1420,13 @@
 		</instanceOf>
 		<name>
 			<value>Jordan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Jordan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic72.1533486701971">
@@ -820,6 +1436,13 @@
 		</instanceOf>
 		<name>
 			<value>Kazakhstan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Kazakhstan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic73.1533486723741">
@@ -829,6 +1452,13 @@
 		</instanceOf>
 		<name>
 			<value>Kenya</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Kenya</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic74.1533486747938">
@@ -838,6 +1468,13 @@
 		</instanceOf>
 		<name>
 			<value>Kiribati</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Kiribati</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic75.1533486771107">
@@ -847,6 +1484,13 @@
 		</instanceOf>
 		<name>
 			<value>Korea, North</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Korea, North</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic76.1533486790462">
@@ -856,15 +1500,29 @@
 		</instanceOf>
 		<name>
 			<value>Korea, South</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Korea, South</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic77.1533486814658">
-		<subjectIdentifier href="http://wandora.org/si/temp/1533486814658-1"/>
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kosovo"/>
 		<instanceOf>
 			<topicRef href="#topic0.1533369962675"/>
 		</instanceOf>
 		<name>
 			<value>Kosovo</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Kosovo</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic78.1533486840326">
@@ -874,6 +1532,13 @@
 		</instanceOf>
 		<name>
 			<value>Kuwait</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Kuwait</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic79.1533486879907">
@@ -883,6 +1548,13 @@
 		</instanceOf>
 		<name>
 			<value>Kyrgyzstan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Kyrgyzstan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic80.1533486899037">
@@ -892,6 +1564,13 @@
 		</instanceOf>
 		<name>
 			<value>Laos</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Laos</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic81.1533486944043">
@@ -901,6 +1580,13 @@
 		</instanceOf>
 		<name>
 			<value>Latvia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Latvia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic82.1533486966214">
@@ -910,6 +1596,13 @@
 		</instanceOf>
 		<name>
 			<value>Lebanon</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Lebanon</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic83.1533486994827">
@@ -919,6 +1612,13 @@
 		</instanceOf>
 		<name>
 			<value>Lesotho</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Lesotho</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic84.1533487057427">
@@ -928,6 +1628,13 @@
 		</instanceOf>
 		<name>
 			<value>Liberia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Liberia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic85.1533487112274">
@@ -937,6 +1644,13 @@
 		</instanceOf>
 		<name>
 			<value>Libya</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Libya</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic86.1533488407192">
@@ -946,6 +1660,13 @@
 		</instanceOf>
 		<name>
 			<value>Liechtenstein</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Liechtenstein</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic87.1533488432899">
@@ -955,6 +1676,13 @@
 		</instanceOf>
 		<name>
 			<value>Lithuania</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Lithuania</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic88.1533488475113">
@@ -964,6 +1692,13 @@
 		</instanceOf>
 		<name>
 			<value>Luxembourg</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Luxembourg</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic89.1533488496150">
@@ -973,6 +1708,13 @@
 		</instanceOf>
 		<name>
 			<value>Macedonia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Macedonia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic90.1533488520353">
@@ -982,6 +1724,13 @@
 		</instanceOf>
 		<name>
 			<value>Madagascar</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Madagascar</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic91.1533488545069">
@@ -991,6 +1740,13 @@
 		</instanceOf>
 		<name>
 			<value>Malawi</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Malawi</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic92.1533488580665">
@@ -1000,6 +1756,13 @@
 		</instanceOf>
 		<name>
 			<value>Malaysia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Malaysia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic93.1533488658556">
@@ -1009,6 +1772,13 @@
 		</instanceOf>
 		<name>
 			<value>Maldives</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Maldives</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic94.1533488676583">
@@ -1018,6 +1788,13 @@
 		</instanceOf>
 		<name>
 			<value>Mali</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Mali</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic95.1533488694065">
@@ -1027,6 +1804,13 @@
 		</instanceOf>
 		<name>
 			<value>Malta</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Malta</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic96.1533488717852">
@@ -1036,6 +1820,13 @@
 		</instanceOf>
 		<name>
 			<value>Marshall Islands</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Marshall Islands</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic97.1533488742106">
@@ -1045,6 +1836,13 @@
 		</instanceOf>
 		<name>
 			<value>Mauritania</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Mauritania</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic98.1533488760024">
@@ -1054,6 +1852,13 @@
 		</instanceOf>
 		<name>
 			<value>Mauritius</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Mauritius</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic99.1533488777450">
@@ -1063,6 +1868,13 @@
 		</instanceOf>
 		<name>
 			<value>Mexico</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Mexico</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic100.1533488800927">
@@ -1072,6 +1884,13 @@
 		</instanceOf>
 		<name>
 			<value>Micronesia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Micronesia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic101.1533489175637">
@@ -1081,6 +1900,13 @@
 		</instanceOf>
 		<name>
 			<value>Moldova</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Moldova</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic102.1533489200112">
@@ -1090,6 +1916,13 @@
 		</instanceOf>
 		<name>
 			<value>Monaco</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Monaco</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic103.1533489224028">
@@ -1099,6 +1932,13 @@
 		</instanceOf>
 		<name>
 			<value>Mongolia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Mongolia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic104.1533489251911">
@@ -1108,6 +1948,13 @@
 		</instanceOf>
 		<name>
 			<value>Montenegro</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Montenegro</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic105.1533489279378">
@@ -1117,6 +1964,13 @@
 		</instanceOf>
 		<name>
 			<value>Morocco</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Morocco</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic106.1533489299327">
@@ -1126,6 +1980,13 @@
 		</instanceOf>
 		<name>
 			<value>Mozambique</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Mozambique</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic107.1533489321971">
@@ -1135,6 +1996,13 @@
 		</instanceOf>
 		<name>
 			<value>Myanmar</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Myanmar</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic108.1533489342135">
@@ -1144,6 +2012,13 @@
 		</instanceOf>
 		<name>
 			<value>Namibia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Namibia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic109.1533489364457">
@@ -1153,6 +2028,13 @@
 		</instanceOf>
 		<name>
 			<value>Nauru</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Nauru</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic110.1533489385723">
@@ -1162,6 +2044,13 @@
 		</instanceOf>
 		<name>
 			<value>Nepal</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Nepal</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic111.1533489409558">
@@ -1171,6 +2060,13 @@
 		</instanceOf>
 		<name>
 			<value>Netherlands</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Netherlands</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic112.1533489456972">
@@ -1180,6 +2076,13 @@
 		</instanceOf>
 		<name>
 			<value>New Zealand</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>New Zealand</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic113.1533489503739">
@@ -1189,6 +2092,13 @@
 		</instanceOf>
 		<name>
 			<value>Nicaragua</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Nicaragua</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic114.1533489531015">
@@ -1198,6 +2108,13 @@
 		</instanceOf>
 		<name>
 			<value>Niger</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Niger</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic115.1533489559099">
@@ -1207,6 +2124,13 @@
 		</instanceOf>
 		<name>
 			<value>Nigeria</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Nigeria</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic116.1533489604017">
@@ -1216,6 +2140,13 @@
 		</instanceOf>
 		<name>
 			<value>Norway</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Norway</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic117.1533489626908">
@@ -1225,6 +2156,13 @@
 		</instanceOf>
 		<name>
 			<value>Oman</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Oman</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic118.1533489655975">
@@ -1234,6 +2172,13 @@
 		</instanceOf>
 		<name>
 			<value>Pakistan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Pakistan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic119.1533489675867">
@@ -1243,6 +2188,13 @@
 		</instanceOf>
 		<name>
 			<value>Palau</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Palau</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic120.1533489692741">
@@ -1252,6 +2204,13 @@
 		</instanceOf>
 		<name>
 			<value>Palestine</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Palestine</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic121.1533489711207">
@@ -1261,6 +2220,13 @@
 		</instanceOf>
 		<name>
 			<value>Panama</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Panama</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic122.1533489759359">
@@ -1270,6 +2236,13 @@
 		</instanceOf>
 		<name>
 			<value>Papua New Guinea</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Papua New Guinea</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic123.1533489783081">
@@ -1279,6 +2252,13 @@
 		</instanceOf>
 		<name>
 			<value>Paraguay</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Paraguay</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic124.1533489795810">
@@ -1288,6 +2268,13 @@
 		</instanceOf>
 		<name>
 			<value>Peru</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Peru</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic125.1533489830129">
@@ -1297,6 +2284,13 @@
 		</instanceOf>
 		<name>
 			<value>Philippines</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Philippines</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic126.1533489844681">
@@ -1306,6 +2300,13 @@
 		</instanceOf>
 		<name>
 			<value>Poland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Poland</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic127.1533489859485">
@@ -1315,6 +2316,13 @@
 		</instanceOf>
 		<name>
 			<value>Portugal</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Portugal</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic128.1533489885991">
@@ -1324,6 +2332,13 @@
 		</instanceOf>
 		<name>
 			<value>Qatar</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Qatar</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic129.1533489910770">
@@ -1333,6 +2348,13 @@
 		</instanceOf>
 		<name>
 			<value>Romania</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Romania</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic130.1533489925909">
@@ -1342,6 +2364,13 @@
 		</instanceOf>
 		<name>
 			<value>Russia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Russia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic131.1533489972515">
@@ -1351,6 +2380,13 @@
 		</instanceOf>
 		<name>
 			<value>Rwanda</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Rwanda</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic132.1533489997937">
@@ -1360,6 +2396,13 @@
 		</instanceOf>
 		<name>
 			<value>Saint Kitts and Nevis</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Saint Kitts and Nevis</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic133.1533490017435">
@@ -1369,6 +2412,13 @@
 		</instanceOf>
 		<name>
 			<value>Saint Lucia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Saint Lucia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic134.1533490033311">
@@ -1378,6 +2428,13 @@
 		</instanceOf>
 		<name>
 			<value>Saint Vincent and the Grenadines</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Saint Vincent and the Grenadines</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic135.1533490050768">
@@ -1387,6 +2444,13 @@
 		</instanceOf>
 		<name>
 			<value>Samoa</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Samoa</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic136.1533490072579">
@@ -1396,6 +2460,13 @@
 		</instanceOf>
 		<name>
 			<value>San Marino</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>San Marino</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic137.1533490092925">
@@ -1405,6 +2476,13 @@
 		</instanceOf>
 		<name>
 			<value>São Tomé and Príncipe</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>São Tomé and Príncipe</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic138.1533490109600">
@@ -1414,6 +2492,13 @@
 		</instanceOf>
 		<name>
 			<value>Saudi Arabia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Saudi Arabia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic139.1533490126722">
@@ -1423,6 +2508,13 @@
 		</instanceOf>
 		<name>
 			<value>Senegal</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Senegal</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic140.1533490150261">
@@ -1432,6 +2524,13 @@
 		</instanceOf>
 		<name>
 			<value>Serbia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Serbia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic141.1533490171440">
@@ -1441,6 +2540,13 @@
 		</instanceOf>
 		<name>
 			<value>Seychelles</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Seychelles</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic142.1533490205468">
@@ -1450,6 +2556,13 @@
 		</instanceOf>
 		<name>
 			<value>Sierra Leone</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Sierra Leone</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic143.1533490225448">
@@ -1459,6 +2572,13 @@
 		</instanceOf>
 		<name>
 			<value>Singapore</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Singapore</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic144.1533490247794">
@@ -1468,6 +2588,13 @@
 		</instanceOf>
 		<name>
 			<value>Slovakia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Slovakia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic145.1533490265501">
@@ -1477,6 +2604,13 @@
 		</instanceOf>
 		<name>
 			<value>Slovenia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Slovenia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic146.1533490291028">
@@ -1486,6 +2620,13 @@
 		</instanceOf>
 		<name>
 			<value>Solomon Islands</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Solomon Islands</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic147.1533490309949">
@@ -1495,6 +2636,13 @@
 		</instanceOf>
 		<name>
 			<value>Somalia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Somalia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic148.1533490332279">
@@ -1504,6 +2652,13 @@
 		</instanceOf>
 		<name>
 			<value>South Africa</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>South Africa</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic149.1533490356908">
@@ -1513,6 +2668,13 @@
 		</instanceOf>
 		<name>
 			<value>South Sudan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>South Sudan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic150.1533490373687">
@@ -1522,6 +2684,13 @@
 		</instanceOf>
 		<name>
 			<value>Spain</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Spain</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic151.1533490406106">
@@ -1531,6 +2700,13 @@
 		</instanceOf>
 		<name>
 			<value>Sri Lanka</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Sri Lanka</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic152.1533490441014">
@@ -1540,6 +2716,13 @@
 		</instanceOf>
 		<name>
 			<value>Sudan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Sudan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic153.1533490491276">
@@ -1549,6 +2732,13 @@
 		</instanceOf>
 		<name>
 			<value>Suriname</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Suriname</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic154.1533490536986">
@@ -1558,6 +2748,13 @@
 		</instanceOf>
 		<name>
 			<value>Swaziland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Swaziland</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic155.1533490564279">
@@ -1567,6 +2764,13 @@
 		</instanceOf>
 		<name>
 			<value>Sweden</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Sweden</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic156.1533490644417">
@@ -1576,6 +2780,13 @@
 		</instanceOf>
 		<name>
 			<value>Switzerland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Switzerland</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic157.1533490679485">
@@ -1585,6 +2796,13 @@
 		</instanceOf>
 		<name>
 			<value>Syria</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Syria</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic158.1533490897292">
@@ -1594,6 +2812,13 @@
 		</instanceOf>
 		<name>
 			<value>Tajikistan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Tajikistan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic159.1533490923270">
@@ -1603,6 +2828,13 @@
 		</instanceOf>
 		<name>
 			<value>Tanzania</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Tanzania</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic160.1533490965212">
@@ -1612,6 +2844,13 @@
 		</instanceOf>
 		<name>
 			<value>Thailand</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Thailand</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic161.1533491001616">
@@ -1621,6 +2860,13 @@
 		</instanceOf>
 		<name>
 			<value>Togo</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Togo</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic162.1533491020797">
@@ -1630,6 +2876,13 @@
 		</instanceOf>
 		<name>
 			<value>Tonga</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Tonga</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic163.1533491099246">
@@ -1639,6 +2892,13 @@
 		</instanceOf>
 		<name>
 			<value>Trinidad and Tobago</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Trinidad and Tobago</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic164.1533491135252">
@@ -1648,6 +2908,13 @@
 		</instanceOf>
 		<name>
 			<value>Tunisia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Tunisia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic165.1533491192908">
@@ -1657,6 +2924,13 @@
 		</instanceOf>
 		<name>
 			<value>Turkey</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Turkey</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic166.1533491221173">
@@ -1666,6 +2940,13 @@
 		</instanceOf>
 		<name>
 			<value>Turkmenistan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Turkmenistan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic167.1533491263820">
@@ -1675,6 +2956,13 @@
 		</instanceOf>
 		<name>
 			<value>Tuvalu</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Tuvalu</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic168.1533491296042">
@@ -1684,6 +2972,13 @@
 		</instanceOf>
 		<name>
 			<value>Uganda</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Uganda</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic169.1533491477785">
@@ -1693,6 +2988,13 @@
 		</instanceOf>
 		<name>
 			<value>Ukraine</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Ukraine</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic170.1533491523682">
@@ -1702,6 +3004,13 @@
 		</instanceOf>
 		<name>
 			<value>United Arab Emirates</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>United Arab Emirates</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic171.1533491556323">
@@ -1711,6 +3020,13 @@
 		</instanceOf>
 		<name>
 			<value>United Kingdom</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>United Kingdom</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic172.1533491617546">
@@ -1720,6 +3036,13 @@
 		</instanceOf>
 		<name>
 			<value>United States</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>United States</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic173.1533491637041">
@@ -1729,6 +3052,13 @@
 		</instanceOf>
 		<name>
 			<value>Uruguay</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Uruguay</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic174.1533491675759">
@@ -1738,6 +3068,13 @@
 		</instanceOf>
 		<name>
 			<value>Uzbekistan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Uzbekistan</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic175.1533491719885">
@@ -1747,6 +3084,13 @@
 		</instanceOf>
 		<name>
 			<value>Vanuatu</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Vanuatu</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic176.1533491784803">
@@ -1756,6 +3100,13 @@
 		</instanceOf>
 		<name>
 			<value>Vatican City</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Vatican City</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic177.1533491817398">
@@ -1765,6 +3116,13 @@
 		</instanceOf>
 		<name>
 			<value>Venezuela</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Venezuela</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic178.1533491975786">
@@ -1774,6 +3132,13 @@
 		</instanceOf>
 		<name>
 			<value>Vietnam</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Vietnam</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic179.1533492017735">
@@ -1783,6 +3148,13 @@
 		</instanceOf>
 		<name>
 			<value>Yemen</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Yemen</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic180.1533492100482">
@@ -1792,6 +3164,13 @@
 		</instanceOf>
 		<name>
 			<value>Zambia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Zambia</resourceData>
+			</variant>
 		</name>
 	</topic>
 	<topic id="topic181.1533492138015">
@@ -1801,6 +3180,149 @@
 		</instanceOf>
 		<name>
 			<value>Zimbabwe</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Zimbabwe</resourceData>
+			</variant>
 		</name>
+	</topic>
+	<topic id="topic182.1533492671409">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Niue"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Niue</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Niue</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic183.1533492697604">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Northern_Cyprus"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Northern Cyprus</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Northern Cyprus</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic184.1533492738314">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Sahrawi Arab Democratic Republic</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Sahrawi Arab Democratic Republic</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic185.1533492760717">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Somaliland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Somaliland</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Somaliland</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic186.1533492781977">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/South_Ossetia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>South Ossetia</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>South Ossetia</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic187.1533492810516">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Taiwan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Taiwan</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Taiwan</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic188.1533492832511">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Transnistria"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Transnistria</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic189.1533492921665"/>
+					<topicRef href="#topic190.1533492921665"/>
+				</scope>
+				<resourceData>Transnistria</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic189.1533492921665">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#display"/>
+	</topic>
+	<topic id="topic190.1533492921665">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#en"/>
+	</topic>
+	<topic id="topic191.1533492921666">
+		<subjectIdentifier href="http://wandora.org/si/core/lang-independent"/>
+	</topic>
+	<topic id="topic192.1533492921666">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#es"/>
+	</topic>
+	<topic id="topic193.1533492921666">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#sv"/>
+	</topic>
+	<topic id="topic194.1533492921666">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#de"/>
+	</topic>
+	<topic id="topic195.1533492921666">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#fr"/>
+	</topic>
+	<topic id="topic196.1533492921666">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#fi"/>
 	</topic>
 </topicMap>
