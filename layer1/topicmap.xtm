@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topicMap xmlns="http://www.topicmaps.org/xtm/" version="2.0">
+	<topic id="topic0.1533369962675">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/List_of_sovereign_states"/>
+		<instanceOf>
+			<topicRef href="#topic1.1533369962677"/>
+		</instanceOf>
+		<name>
+			<value>Country</value>
+		</name>
+	</topic>
+	<topic id="topic1.1533369962677">
+		<subjectIdentifier href="http://wandora.org/si/core/wandora-class"/>
+	</topic>
+	<topic id="topic2.1533370103039">
+		<subjectIdentifier href="http://wandora.org/si/temp/1533370103039-0"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Abkhazia</value>
+		</name>
+	</topic>
+	<topic id="topic3.1533370104720">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#superclass-subclass"/>
+	</topic>
+	<topic id="topic4.1533370104721">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#subclass"/>
+	</topic>
+	<topic id="topic5.1533370104722">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#superclass"/>
+	</topic>
+	<topic id="topic6.1533370134243">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Albania"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Albania</value>
+		</name>
+	</topic>
+	<topic id="topic7.1533370265949">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Algeria"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Algeria</value>
+		</name>
+	</topic>
+	<topic id="topic8.1533370328798">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Andorra"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Andorra</value>
+		</name>
+	</topic>
+	<topic id="topic9.1533370431940">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Angola"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Angola</value>
+		</name>
+	</topic>
+	<topic id="topic10.1533370458128">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Antigua and Barbuda</value>
+		</name>
+	</topic>
+	<topic id="topic11.1533370480842">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Argentina"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Argentina</value>
+		</name>
+	</topic>
+	<topic id="topic12.1533370519352">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Armenia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Armenia</value>
+		</name>
+	</topic>
+	<topic id="topic13.1533370555005">
+		<subjectIdentifier href="http://wandora.org/si/temp/1533370555005-1"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Artsakh</value>
+		</name>
+	</topic>
+	<topic id="topic14.1533370589586">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Australia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Australia</value>
+		</name>
+	</topic>
+	<topic id="topic15.1533370650096">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Austria"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Austria</value>
+		</name>
+	</topic>
+	<topic id="topic16.1533370686942">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Azerbaijan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Azerbaijan</value>
+		</name>
+	</topic>
+	<topic id="topic17.1533370719626">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/The_Bahamas"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bahamas</value>
+		</name>
+	</topic>
+	<topic id="topic18.1533370741438">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bahrain"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bahrain</value>
+		</name>
+	</topic>
+	<topic id="topic19.1533370783387">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bangladesh"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bangladesh</value>
+		</name>
+	</topic>
+	<topic id="topic20.1533371039598">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Barbados"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Barbados</value>
+		</name>
+	</topic>
+	<topic id="topic0.1533483185439">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Belarus"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Belarus</value>
+		</name>
+	</topic>
+	<topic id="topic1.1533483223323">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Belgium"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Belgium</value>
+		</name>
+	</topic>
+	<topic id="topic2.1533483251022">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Belize"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Belize</value>
+		</name>
+	</topic>
+	<topic id="topic3.1533483298341">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Benin"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Benin</value>
+		</name>
+	</topic>
+	<topic id="topic4.1533483328529">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bhutan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bhutan</value>
+		</name>
+	</topic>
+	<topic id="topic5.1533483364230">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bolivia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bolivia</value>
+		</name>
+	</topic>
+	<topic id="topic6.1533483388273">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bosnia and Herzegovina</value>
+		</name>
+	</topic>
+	<topic id="topic7.1533483418045">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Botswana"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Botswana</value>
+		</name>
+	</topic>
+	<topic id="topic8.1533483445153">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Brazil"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Brazil</value>
+		</name>
+	</topic>
+	<topic id="topic9.1533483471036">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Brunei"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Brunei</value>
+		</name>
+	</topic>
+	<topic id="topic10.1533483515426">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bulgaria"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Bulgaria</value>
+		</name>
+	</topic>
+	<topic id="topic11.1533483545990">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Burkina_Faso"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Burkina Faso</value>
+		</name>
+	</topic>
+	<topic id="topic12.1533483581428">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Burundi"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Burundi</value>
+		</name>
+	</topic>
+	<topic id="topic13.1533483605814">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cambodia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Cambodia</value>
+		</name>
+	</topic>
+	<topic id="topic14.1533483634603">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cameroon"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Cameroon</value>
+		</name>
+	</topic>
+	<topic id="topic15.1533483657591">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Canada"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Canada</value>
+		</name>
+	</topic>
+	<topic id="topic16.1533483691522">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cape_Verde"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Cape Verde</value>
+		</name>
+	</topic>
+	<topic id="topic17.1533483715830">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Central_African_Republic"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Central African Republic</value>
+		</name>
+	</topic>
+	<topic id="topic18.1533483748472">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Chad"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Chad</value>
+		</name>
+	</topic>
+	<topic id="topic19.1533484234082">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Chile"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Chile</value>
+		</name>
+	</topic>
+	<topic id="topic20.1533484258789">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/China"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>China</value>
+		</name>
+	</topic>
+	<topic id="topic21.1533484304220">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Colombia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Colombia</value>
+		</name>
+	</topic>
+	<topic id="topic22.1533484338681">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Comoros"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Comoros</value>
+		</name>
+	</topic>
+	<topic id="topic23.1533484381477">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Congo, Democratic Republic of the</value>
+		</name>
+	</topic>
+	<topic id="topic24.1533484408522">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Republic_of_the_Congo"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Congo, Republic of the</value>
+		</name>
+	</topic>
+	<topic id="topic25.1533484442543">
+		<subjectIdentifier href="http://wandora.org/si/temp/1533484442543-0"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Cook Islands</value>
+		</name>
+	</topic>
+	<topic id="topic26.1533484475396">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Costa_Rica"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Costa Rica</value>
+		</name>
+	</topic>
+	<topic id="topic27.1533484518569">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Croatia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Croatia</value>
+		</name>
+	</topic>
+	<topic id="topic28.1533484541996">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cuba"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Cuba</value>
+		</name>
+	</topic>
+	<topic id="topic29.1533484570057">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cyprus"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Cyprus</value>
+		</name>
+	</topic>
+	<topic id="topic30.1533484597451">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Czech_Republic"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Czech Republic</value>
+		</name>
+	</topic>
+	<topic id="topic31.1533484630593">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Denmark"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Denmark</value>
+		</name>
+	</topic>
+	<topic id="topic32.1533484655386">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Djibouti"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Djibouti</value>
+		</name>
+	</topic>
+	<topic id="topic33.1533484679255">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Dominica"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Dominica</value>
+		</name>
+	</topic>
+	<topic id="topic34.1533484700418">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Dominican_Republic"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Dominican Republic</value>
+		</name>
+	</topic>
+	<topic id="topic35.1533484725271">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/East_Timor"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>East Timor</value>
+		</name>
+	</topic>
+	<topic id="topic36.1533484753489">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Ecuador"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Ecuador</value>
+		</name>
+	</topic>
+	<topic id="topic37.1533484781701">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Egypt"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Egypt</value>
+		</name>
+	</topic>
+	<topic id="topic38.1533484807064">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/El_Salvador"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>El Salvador</value>
+		</name>
+	</topic>
+	<topic id="topic39.1533484840997">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Equatorial_Guinea"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Equatorial Guinea</value>
+		</name>
+	</topic>
+	<topic id="topic40.1533484865344">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Eritrea"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Eritrea</value>
+		</name>
+	</topic>
+	<topic id="topic41.1533484888051">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Estonia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Estonia</value>
+		</name>
+	</topic>
+	<topic id="topic42.1533484914487">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Ethiopia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Ethiopia</value>
+		</name>
+	</topic>
+	<topic id="topic43.1533484934466">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Fiji"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Fiji</value>
+		</name>
+	</topic>
+	<topic id="topic44.1533484963509">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Finland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Finland</value>
+		</name>
+	</topic>
+	<topic id="topic45.1533486001516">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/France"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>France</value>
+		</name>
+	</topic>
+	<topic id="topic46.1533486025303">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Gabon"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Gabon</value>
+		</name>
+	</topic>
+	<topic id="topic47.1533486050074">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/The_Gambia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Gambia, The</value>
+		</name>
+	</topic>
+	<topic id="topic48.1533486078447">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Georgia_(country)"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Georgia</value>
+		</name>
+	</topic>
+	<topic id="topic49.1533486103105">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Germany"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Germany</value>
+		</name>
+	</topic>
+	<topic id="topic50.1533486129685">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Ghana"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Ghana</value>
+		</name>
+	</topic>
+	<topic id="topic51.1533486152669">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Greece"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Greece</value>
+		</name>
+	</topic>
+	<topic id="topic52.1533486173734">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Grenada"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Grenada</value>
+		</name>
+	</topic>
+	<topic id="topic53.1533486199015">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Guatemala"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Guatemala</value>
+		</name>
+	</topic>
+	<topic id="topic54.1533486235852">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Guinea"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Guinea</value>
+		</name>
+	</topic>
+	<topic id="topic55.1533486256838">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Guinea-Bissau"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Guinea-Bissau</value>
+		</name>
+	</topic>
+	<topic id="topic56.1533486290788">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Guyana"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Guyana</value>
+		</name>
+	</topic>
+	<topic id="topic57.1533486313558">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Haiti"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Haiti</value>
+		</name>
+	</topic>
+	<topic id="topic58.1533486343234">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Honduras"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Honduras</value>
+		</name>
+	</topic>
+	<topic id="topic59.1533486367981">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Hungary"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Hungary</value>
+		</name>
+	</topic>
+	<topic id="topic60.1533486398042">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Iceland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Iceland</value>
+		</name>
+	</topic>
+	<topic id="topic61.1533486425645">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/India"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>India</value>
+		</name>
+	</topic>
+	<topic id="topic62.1533486454449">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Indonesia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Indonesia</value>
+		</name>
+	</topic>
+	<topic id="topic63.1533486476860">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Iran"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Iran</value>
+		</name>
+	</topic>
+	<topic id="topic64.1533486500528">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Iraq"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Iraq</value>
+		</name>
+	</topic>
+	<topic id="topic65.1533486530476">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Republic_of_Ireland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Ireland</value>
+		</name>
+	</topic>
+	<topic id="topic66.1533486558391">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Israel"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Israel</value>
+		</name>
+	</topic>
+	<topic id="topic67.1533486582666">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Italy"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Italy</value>
+		</name>
+	</topic>
+	<topic id="topic68.1533486613238">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Ivory_Coast"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Ivory Coast</value>
+		</name>
+	</topic>
+	<topic id="topic69.1533486633338">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Jamaica"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Jamaica</value>
+		</name>
+	</topic>
+	<topic id="topic70.1533486657189">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Japan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Japan</value>
+		</name>
+	</topic>
+	<topic id="topic71.1533486680288">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Jordan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Jordan</value>
+		</name>
+	</topic>
+	<topic id="topic72.1533486701971">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kazakhstan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Kazakhstan</value>
+		</name>
+	</topic>
+	<topic id="topic73.1533486723741">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kenya"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Kenya</value>
+		</name>
+	</topic>
+	<topic id="topic74.1533486747938">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kiribati"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Kiribati</value>
+		</name>
+	</topic>
+	<topic id="topic75.1533486771107">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/North_Korea"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Korea, North</value>
+		</name>
+	</topic>
+	<topic id="topic76.1533486790462">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/South_Korea"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Korea, South</value>
+		</name>
+	</topic>
+	<topic id="topic77.1533486814658">
+		<subjectIdentifier href="http://wandora.org/si/temp/1533486814658-1"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Kosovo</value>
+		</name>
+	</topic>
+	<topic id="topic78.1533486840326">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kuwait"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Kuwait</value>
+		</name>
+	</topic>
+	<topic id="topic79.1533486879907">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kyrgyzstan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Kyrgyzstan</value>
+		</name>
+	</topic>
+	<topic id="topic80.1533486899037">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Laos"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Laos</value>
+		</name>
+	</topic>
+	<topic id="topic81.1533486944043">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Latvia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Latvia</value>
+		</name>
+	</topic>
+	<topic id="topic82.1533486966214">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Lebanon"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Lebanon</value>
+		</name>
+	</topic>
+	<topic id="topic83.1533486994827">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Lesotho"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Lesotho</value>
+		</name>
+	</topic>
+	<topic id="topic84.1533487057427">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Liberia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Liberia</value>
+		</name>
+	</topic>
+	<topic id="topic85.1533487112274">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Libya"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Libya</value>
+		</name>
+	</topic>
+	<topic id="topic86.1533488407192">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Liechtenstein"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Liechtenstein</value>
+		</name>
+	</topic>
+	<topic id="topic87.1533488432899">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Lithuania"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Lithuania</value>
+		</name>
+	</topic>
+	<topic id="topic88.1533488475113">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Luxembourg"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Luxembourg</value>
+		</name>
+	</topic>
+	<topic id="topic89.1533488496150">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Republic_of_Macedonia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Macedonia</value>
+		</name>
+	</topic>
+	<topic id="topic90.1533488520353">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Madagascar"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Madagascar</value>
+		</name>
+	</topic>
+	<topic id="topic91.1533488545069">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Malawi"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Malawi</value>
+		</name>
+	</topic>
+	<topic id="topic92.1533488580665">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Malaysia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Malaysia</value>
+		</name>
+	</topic>
+	<topic id="topic93.1533488658556">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Maldives"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Maldives</value>
+		</name>
+	</topic>
+	<topic id="topic94.1533488676583">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Mali"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Mali</value>
+		</name>
+	</topic>
+	<topic id="topic95.1533488694065">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Malta"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Malta</value>
+		</name>
+	</topic>
+	<topic id="topic96.1533488717852">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Marshall_Islands"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Marshall Islands</value>
+		</name>
+	</topic>
+	<topic id="topic97.1533488742106">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Mauritania"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Mauritania</value>
+		</name>
+	</topic>
+	<topic id="topic98.1533488760024">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Mauritius"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Mauritius</value>
+		</name>
+	</topic>
+	<topic id="topic99.1533488777450">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Mexico"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Mexico</value>
+		</name>
+	</topic>
+	<topic id="topic100.1533488800927">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Micronesia</value>
+		</name>
+	</topic>
+	<topic id="topic101.1533489175637">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Moldova"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Moldova</value>
+		</name>
+	</topic>
+	<topic id="topic102.1533489200112">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Monaco"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Monaco</value>
+		</name>
+	</topic>
+	<topic id="topic103.1533489224028">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Mongolia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Mongolia</value>
+		</name>
+	</topic>
+	<topic id="topic104.1533489251911">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Montenegro"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Montenegro</value>
+		</name>
+	</topic>
+	<topic id="topic105.1533489279378">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Morocco"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Morocco</value>
+		</name>
+	</topic>
+	<topic id="topic106.1533489299327">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Mozambique"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Mozambique</value>
+		</name>
+	</topic>
+	<topic id="topic107.1533489321971">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Myanmar"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Myanmar</value>
+		</name>
+	</topic>
+	<topic id="topic108.1533489342135">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Namibia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Namibia</value>
+		</name>
+	</topic>
+	<topic id="topic109.1533489364457">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Nauru"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Nauru</value>
+		</name>
+	</topic>
+	<topic id="topic110.1533489385723">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Nepal"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Nepal</value>
+		</name>
+	</topic>
+	<topic id="topic111.1533489409558">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Netherlands</value>
+		</name>
+	</topic>
+	<topic id="topic112.1533489456972">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/New_Zealand"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>New Zealand</value>
+		</name>
+	</topic>
+	<topic id="topic113.1533489503739">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Nicaragua"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Nicaragua</value>
+		</name>
+	</topic>
+	<topic id="topic114.1533489531015">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Niger"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Niger</value>
+		</name>
+	</topic>
+	<topic id="topic115.1533489559099">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Nigeria"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Nigeria</value>
+		</name>
+	</topic>
+	<topic id="topic116.1533489604017">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Norway"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Norway</value>
+		</name>
+	</topic>
+	<topic id="topic117.1533489626908">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Oman"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Oman</value>
+		</name>
+	</topic>
+	<topic id="topic118.1533489655975">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Pakistan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Pakistan</value>
+		</name>
+	</topic>
+	<topic id="topic119.1533489675867">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Palau"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Palau</value>
+		</name>
+	</topic>
+	<topic id="topic120.1533489692741">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/State_of_Palestine"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Palestine</value>
+		</name>
+	</topic>
+	<topic id="topic121.1533489711207">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Panama"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Panama</value>
+		</name>
+	</topic>
+	<topic id="topic122.1533489759359">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Papua_New_Guinea"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Papua New Guinea</value>
+		</name>
+	</topic>
+	<topic id="topic123.1533489783081">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Paraguay"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Paraguay</value>
+		</name>
+	</topic>
+	<topic id="topic124.1533489795810">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Peru"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Peru</value>
+		</name>
+	</topic>
+	<topic id="topic125.1533489830129">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Philippines"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Philippines</value>
+		</name>
+	</topic>
+	<topic id="topic126.1533489844681">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Poland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Poland</value>
+		</name>
+	</topic>
+	<topic id="topic127.1533489859485">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Portugal"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Portugal</value>
+		</name>
+	</topic>
+	<topic id="topic128.1533489885991">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Qatar"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Qatar</value>
+		</name>
+	</topic>
+	<topic id="topic129.1533489910770">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Romania"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Romania</value>
+		</name>
+	</topic>
+	<topic id="topic130.1533489925909">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Russia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Russia</value>
+		</name>
+	</topic>
+	<topic id="topic131.1533489972515">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Rwanda"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Rwanda</value>
+		</name>
+	</topic>
+	<topic id="topic132.1533489997937">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Saint Kitts and Nevis</value>
+		</name>
+	</topic>
+	<topic id="topic133.1533490017435">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Saint_Lucia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Saint Lucia</value>
+		</name>
+	</topic>
+	<topic id="topic134.1533490033311">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Saint Vincent and the Grenadines</value>
+		</name>
+	</topic>
+	<topic id="topic135.1533490050768">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Samoa"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Samoa</value>
+		</name>
+	</topic>
+	<topic id="topic136.1533490072579">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/San_Marino"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>San Marino</value>
+		</name>
+	</topic>
+	<topic id="topic137.1533490092925">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>São Tomé and Príncipe</value>
+		</name>
+	</topic>
+	<topic id="topic138.1533490109600">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Saudi_Arabia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Saudi Arabia</value>
+		</name>
+	</topic>
+	<topic id="topic139.1533490126722">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Senegal"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Senegal</value>
+		</name>
+	</topic>
+	<topic id="topic140.1533490150261">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Serbia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Serbia</value>
+		</name>
+	</topic>
+	<topic id="topic141.1533490171440">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Seychelles"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Seychelles</value>
+		</name>
+	</topic>
+	<topic id="topic142.1533490205468">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Sierra_Leone"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Sierra Leone</value>
+		</name>
+	</topic>
+	<topic id="topic143.1533490225448">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Singapore"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Singapore</value>
+		</name>
+	</topic>
+	<topic id="topic144.1533490247794">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Slovakia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Slovakia</value>
+		</name>
+	</topic>
+	<topic id="topic145.1533490265501">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Slovenia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Slovenia</value>
+		</name>
+	</topic>
+	<topic id="topic146.1533490291028">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Solomon_Islands"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Solomon Islands</value>
+		</name>
+	</topic>
+	<topic id="topic147.1533490309949">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Somalia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Somalia</value>
+		</name>
+	</topic>
+	<topic id="topic148.1533490332279">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/South_Africa"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>South Africa</value>
+		</name>
+	</topic>
+	<topic id="topic149.1533490356908">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/South_Sudan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>South Sudan</value>
+		</name>
+	</topic>
+	<topic id="topic150.1533490373687">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Spain"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Spain</value>
+		</name>
+	</topic>
+	<topic id="topic151.1533490406106">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Sri_Lanka"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Sri Lanka</value>
+		</name>
+	</topic>
+	<topic id="topic152.1533490441014">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Sudan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Sudan</value>
+		</name>
+	</topic>
+	<topic id="topic153.1533490491276">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Suriname"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Suriname</value>
+		</name>
+	</topic>
+	<topic id="topic154.1533490536986">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Swaziland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Swaziland</value>
+		</name>
+	</topic>
+	<topic id="topic155.1533490564279">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Sweden"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Sweden</value>
+		</name>
+	</topic>
+	<topic id="topic156.1533490644417">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Switzerland"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Switzerland</value>
+		</name>
+	</topic>
+	<topic id="topic157.1533490679485">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Syria"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Syria</value>
+		</name>
+	</topic>
+	<topic id="topic158.1533490897292">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Tajikistan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Tajikistan</value>
+		</name>
+	</topic>
+	<topic id="topic159.1533490923270">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Tanzania"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Tanzania</value>
+		</name>
+	</topic>
+	<topic id="topic160.1533490965212">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Thailand"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Thailand</value>
+		</name>
+	</topic>
+	<topic id="topic161.1533491001616">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Togo"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Togo</value>
+		</name>
+	</topic>
+	<topic id="topic162.1533491020797">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Tonga"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Tonga</value>
+		</name>
+	</topic>
+	<topic id="topic163.1533491099246">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Trinidad_and_Tobago"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Trinidad and Tobago</value>
+		</name>
+	</topic>
+	<topic id="topic164.1533491135252">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Tunisia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Tunisia</value>
+		</name>
+	</topic>
+	<topic id="topic165.1533491192908">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Turkey"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Turkey</value>
+		</name>
+	</topic>
+	<topic id="topic166.1533491221173">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Turkmenistan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Turkmenistan</value>
+		</name>
+	</topic>
+	<topic id="topic167.1533491263820">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Tuvalu"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Tuvalu</value>
+		</name>
+	</topic>
+	<topic id="topic168.1533491296042">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Uganda"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Uganda</value>
+		</name>
+	</topic>
+	<topic id="topic169.1533491477785">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Ukraine"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Ukraine</value>
+		</name>
+	</topic>
+	<topic id="topic170.1533491523682">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/United_Arab_Emirates"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>United Arab Emirates</value>
+		</name>
+	</topic>
+	<topic id="topic171.1533491556323">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/United_Kingdom"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>United Kingdom</value>
+		</name>
+	</topic>
+	<topic id="topic172.1533491617546">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/United_States"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>United States</value>
+		</name>
+	</topic>
+	<topic id="topic173.1533491637041">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Uruguay"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Uruguay</value>
+		</name>
+	</topic>
+	<topic id="topic174.1533491675759">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Uzbekistan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Uzbekistan</value>
+		</name>
+	</topic>
+	<topic id="topic175.1533491719885">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Vanuatu"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Vanuatu</value>
+		</name>
+	</topic>
+	<topic id="topic176.1533491784803">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Vatican_City"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Vatican City</value>
+		</name>
+	</topic>
+	<topic id="topic177.1533491817398">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Venezuela"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Venezuela</value>
+		</name>
+	</topic>
+	<topic id="topic178.1533491975786">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Vietnam"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Vietnam</value>
+		</name>
+	</topic>
+	<topic id="topic179.1533492017735">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Yemen"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Yemen</value>
+		</name>
+	</topic>
+	<topic id="topic180.1533492100482">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Zambia"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Zambia</value>
+		</name>
+	</topic>
+	<topic id="topic181.1533492138015">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Zimbabwe"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Zimbabwe</value>
+		</name>
+	</topic>
+</topicMap>

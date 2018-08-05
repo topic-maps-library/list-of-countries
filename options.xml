@@ -5,6 +5,12 @@
       <type>org.wandora.topicmap.memory.TopicMapImpl</type>
       <visiblity>true</visiblity>
       <readonly>false</readonly>
-      <selected>true</selected>
    </layer0>
+   <layer1>
+      <name>Countries</name>
+      <type>org.wandora.topicmap.memory.TopicMapImpl</type>
+      <visiblity>true</visiblity>
+      <readonly>false</readonly>
+      <selected>true</selected>
+   </layer1>
 </options>
