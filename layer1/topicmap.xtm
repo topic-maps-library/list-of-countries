@@ -27,6 +27,23 @@
 				<resourceData>Abkhazia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Abkhazia is a de-facto and partially recognized republic on the eastern coast of the Black Sea, south of the Greater Caucasus mountains, in northwestern Georgia. It covers 8,660 square kilometres (3,340 sq mi) and has a population of around 240,000. Its capital is Sukhumi. The separatist Abkhazian polity, formally the Republic of Abkhazia, is recognised as a state by Russia, Venezuela, Nicaragua, Nauru, and Syria. While Georgia lacks control over Abkhazia, the Georgian government and most United Nations member states legally consider Abkhazia part of Georgia, whose constitution designates the area as the Autonomous Republic of Abkhazia.
+
+The status of Abkhazia is a central issue of the Georgian–Abkhazian conflict and Georgia–Russia relations. The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s. Simmering ethnic tensions between the Abkhaz—the region's &#34;titular ethnicity&#34;—and Georgians—the largest single ethnic group at that time—culminated in the 1992–1993 War in Abkhazia which resulted in Georgia's loss of control of most of Abkhazia, the de facto independence of Abkhazia, and the ethnic cleansing of Georgians from Abkhazia. Despite the 1994 ceasefire agreement and years of negotiations, the dispute remains unresolved. The long-term presence of a United Nations Observer Mission and a Russian-led Commonwealth of Independent States (CIS) peacekeeping force failed to prevent the flare-up of violence on several occasions. In August 2008, Abkhaz forces fought against Georgian forces during the Russo-Georgian War, which led to the formal recognition of Abkhazia by Russia, the annulment of the 1994 ceasefire agreement, and the termination of the UN mission. On 28 August 2008, the Parliament of Georgia declared Abkhazia a Russian-occupied territory, a stance supported by the vast majority of the international community.</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic189.1533492921665">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#display"/>
+	</topic>
+	<topic id="topic190.1533492921665">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#en"/>
 	</topic>
 	<topic id="topic3.1533370104720">
 		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#superclass-subclass"/>
@@ -52,6 +69,27 @@
 				<resourceData>Albania</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Albania, officially the Republic of Albania (Albanian: Republika e Shqipërisë, pronounced [ɾɛpuˈblika ɛ ʃcipəˈɾiːsə]), is a country in Southeastern Europe. The country spans 28,748 square kilometres (11,100 square miles) and had a total population of 3 million people as of 2016. It is a unitary parliamentary constitutional republic with the capital in Tirana, the country's most populous city and main economic and commercial centre. The country's other major cities include Durrës, Vlorë, Sarandë, Shkodër, Berat, Korçë, Gjirokastër and Fier.
+
+Albania lies in the southwestern portion of the Balkan Peninsula bordered by Montenegro to the northwest, Kosovo[a] to the northeast, the Republic of Macedonia to the east, and Greece to the south and southeast. Most of the country is mountainous, including the Albanian Alps in the north, the Korab Mountains in the east, the Ceraunian Mountains in the south and the Skanderbeg Mountains in the center. The country's coast touches the Adriatic Sea to the northwest and the Ionian Sea to the southwest including the Albanian Riviera. It is less than 72 km (45 mi) from Italy across the Strait of Otranto that connects the Adriatic to the Ionian.
+
+Previously in classical antiquity, Albania has been populated by various Illyrian, Thracian and Greek tribes, as well as several Greek colonies established in the Illyrian coast. In the third century BC, the region was annexed by the Roman Empire and became an integral part of the Roman provinces of Dalmatia, Macedonia and Illyricum. The unified Principality of Arbër emerged in 1190, established by archon Progon in the Krujë, within the Byzantine Empire. In the late thirteenth century, Charles of Anjou conquered the Albanian territories from the Byzantines and established the medieval Kingdom of Albania, extending from Durrës along the coast to Butrint in the south. In the mid-fifteenth century, it was conquered by the Ottomans.
+
+The modern nation state of Albania emerged in 1912 following the defeat of the Ottomans in the Balkan Wars. The modern Kingdom of Albania was invaded by Italy in 1939, which formed Greater Albania, before becoming a Nazi German protectorate in 1943. After the defeat of Nazi Germany, a Communist state titled the People's Socialist Republic of Albania was founded under the leadership of Enver Hoxha and the Party of Labour. The country experienced widespread social and political transformations in the communist era, as well as isolation from much of the international community. In the aftermath of the Revolutions of 1991, the Socialist Republic was dissolved and the fourth Republic of Albania was established.
+
+Albania is a democratic and developing country with an upper-middle income economy. The tertiary sector dominates the country's economy followed by the secondary and primary sector. Following the end of communism in 1990, the country went through a process of transition from a centralized economy to a market-based economy. It also provides universal health care and free primary and secondary education to its citizens.
+
+The country is a member of the United Nations, World Bank, UNESCO, NATO, WTO, COE, OSCE and OIC. It is also an official candidate for membership in the European Union. In addition it is one of the founding members of the Energy Community, including the Organization of the Black Sea Economic Cooperation and Union for the Mediterranean.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic7.1533370265949">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Algeria"/>
@@ -68,6 +106,21 @@
 				<resourceData>Algeria</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Algeria, officially the People's Democratic Republic of Algeria, is a sovereign state in North Africa on the Mediterranean coast. The capital and most populous city is Algiers, located in the far north of the country. With an area of 2,381,741 square kilometres (919,595 sq mi), Algeria is the tenth-largest country in the world, and the largest in Africa since South Sudan became independent from Sudan in 2011. Algeria is bordered to the northeast by Tunisia, to the east by Libya, to the west by Morocco, to the southwest by the Western Saharan territory, Mauritania, and Mali, to the southeast by Niger, and to the north by the Mediterranean Sea. The country is a semi-presidential republic consisting of 48 provinces and 1,541 communes (counties). Abdelaziz Bouteflika has been President since 1999.
+
+Ancient Algeria has known many empires and dynasties, including ancient Numidians, Phoenicians, Carthaginians, Romans, Vandals, Byzantines, Umayyads, Abbasids, Idrisid, Aghlabid, Rustamid, Fatimids, Zirid, Hammadids, Almoravids, Almohads, Spaniards, Ottomans and the French colonial empire. Berbers are the indigenous inhabitants of Algeria.
+
+Algeria is a regional and middle power. The North African country supplies large amounts of natural gas to Europe, and energy exports are the backbone of the economy. According to OPEC Algeria has the 16th largest oil reserves in the world and the second largest in Africa, while it has the 9th largest reserves of natural gas. Sonatrach, the national oil company, is the largest company in Africa. Algeria has one of the largest militaries in Africa and the largest defence budget on the continent; most of Algeria's weapons are imported from Russia, with whom they are a close ally. Algeria is a member of the African Union, the Arab League, OPEC, the United Nations and is a founding member of the Arab Maghreb Union.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic8.1533370328798">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Andorra"/>
@@ -84,6 +137,19 @@
 				<resourceData>Andorra</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Andorra, also called the Principality of the Valleys of Andorra (Catalan: Principat de les Valls d'Andorra), is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France in the north and Spain in the south. Believed to have been created by Charlemagne, Andora was ruled by the Count of Urgell until 988 when it was transferred to the Diocese of Urgell, and the present principality was formed by a charter in 1278. It is known as a principality as it is a diarchy headed by two Co-Princes: the Catholic Bishop of Urgell in Spain and the President of the Republic of France.
+
+Andorra is the sixth-smallest nation in Europe, having an area of 468 square kilometres (181 sq mi) and a population of approximately 77,281. The Andorrans are a Romance ethnic group of originally Catalan descent. Andorra is the 16th-smallest country in the world by land and 11th-smallest country by population. Its capital Andorra la Vella is the highest capital city in Europe, at an elevation of 1,023 metres (3,356 feet) above sea level. The official language is Catalan, although Spanish, Portuguese, and French are also commonly spoken.
+
+Andorra's tourism services an estimated 10.2 million visitors annually. It is not a member of the European Union, but the euro is its official currency. It has been a member of the United Nations since 1993. In 2013, the people of Andorra had the highest life expectancy in the world at 81 years, according to the Global Burden of Disease Study.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic9.1533370431940">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Angola"/>
@@ -100,6 +166,25 @@
 				<resourceData>Angola</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Angola is a country in Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. The exclave province of Cabinda borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and largest city of Angola is Luanda.
+
+Although inhabited since the Paleolithic Era, what is now Angola was molded by Portuguese colonisation. It began with, and was for centuries limited to, coastal settlements and trading posts established starting in the 16th century. In the 19th century, European settlers slowly and hesitantly began to establish themselves in the interior. The Portuguese colony that became Angola did not have its present borders until the early 20th century because of resistance by groups such as the Cuamato, the Kwanyama and the Mbunda.
+
+After a protracted anti-colonial struggle, independence was achieved in 1975 as the Marxist-Leninist People's Republic of Angola, a one-party state supported by the Soviet Union and Cuba. The civil war between the ruling People's Movement for the Liberation of Angola (MPLA) and the insurgent anti-communist National Union for the Total Independence of Angola (UNITA), supported by the United States and apartheid South Africa, lasted until 2002. It has since become a relatively stable unitary presidential republic.
+
+Angola has vast mineral and petroleum reserves, and its economy is among the fastest-growing in the world, especially since the end of the civil war; however the standard of living remains low for most of the population, and life expectancy in Angola is among the lowest in the world, while infant mortality is among the highest. Angola's economic growth is highly uneven, with most of the nation's wealth concentrated in a disproportionately small sector of the population.
+
+Angola is a member state of the United Nations, OPEC, African Union, the Community of Portuguese Language Countries, and the Southern African Development Community. A highly multiethnic country, Angola's 25.8 million people span tribal groups, customs, and traditions. Angolan culture reflects centuries of Portuguese rule, in the predominance of the Portuguese language and of the Catholic Church.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic10.1533370458128">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda"/>
@@ -116,6 +201,19 @@
 				<resourceData>Antigua and Barbuda</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Antigua and Barbuda is a sovereign state in the West Indies in the Americas, lying between the Caribbean Sea and the Atlantic Ocean. It consists of two major islands, Antigua and Barbuda, and a number of smaller islands (including Great Bird, Green, Guiana, Long, Maiden and York Islands and further south, the island of Redonda). The permanent population numbers about 81,800 (at the 2011 Census) and the capital and largest port and city is St. John's, on Antigua.
+
+Lying near each other (the main Barbuda airport is less than 0.5° of latitude, or 30 nautical miles, north of the main Antigua airport), Antigua and Barbuda are in the middle of the Leeward Islands, part of the Lesser Antilles, roughly at 17°N of the equator. The country's name was given by Christopher Columbus in 1493 after discovering the island, in honor of the Virgin of La Antigua in the Seville Cathedral. The country is nicknamed &#34;Land of 365 Beaches&#34; due to the many beaches surrounding the islands. Its governance, language, and culture have all been strongly influenced by the British Empire, of which the country was formerly a part, gaining sovereignty on 1 November 1981. It remains a member of the Commonwealth and Queen Elizabeth II is the head of state.
+
+In September 2017, Hurricane Irma damaged or destroyed 95% of Barbuda's buildings and infrastructure. Everyone on the island was evacuated to Antigua.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic11.1533370480842">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Argentina"/>
@@ -132,6 +230,19 @@
 				<resourceData>Argentina</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Argentina is a federal republic located mostly in the southern half of South America. Sharing the bulk of the Southern Cone with Chile to the west, the country is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. With a mainland area of 2,780,400 km2 (1,073,500 sq mi),[B] Argentina is the eighth-largest country in the world, the second largest in Latin America, and the largest Spanish-speaking nation. It is subdivided into twenty-three provinces (Spanish: provincias, singular provincia) and one autonomous city (ciudad autónoma), Buenos Aires, which is the federal capital of the nation (Spanish: Capital Federal) as decided by Congress. The provinces and the capital have their own constitutions, but exist under a federal system. Argentina claims sovereignty over part of Antarctica, the Falkland Islands (Spanish: Islas Malvinas), and South Georgia and the South Sandwich Islands.
+
+The earliest recorded human presence in the area of modern-day Argentina dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century. Argentina rose as the successor state of the Viceroyalty of the Río de la Plata, a Spanish overseas viceroyalty founded in 1776. The declaration and fight for independence (1810–1818) was followed by an extended civil war that lasted until 1861, culminating in the country's reorganization as a federation of provinces with Buenos Aires as its capital city. The country thereafter enjoyed relative peace and stability, with massive waves of European immigration radically reshaping its cultural and demographic outlook. The almost-unparalleled increase in prosperity led to Argentina becoming the seventh wealthiest developed nation in the world by the early 20th century.
+
+After 1930, Argentina descended into political instability and periodic economic crises that pushed it back into underdevelopment, though it nevertheless remained among the fifteen richest countries until the mid-20th century. Following the death of President Juan Perón in 1974, his wife Isabel Martínez de Perón ascended to the presidency. She was overthrown in a coup in 1976 led by the military, which elevated Jorge Rafael Videla to the presidency and named the government the National Reorganization Process. With the help of the United States, in Operation Condor, Videla persecuted leftists, socialists, political dissidents, and normal Argentine citizens believed to be associated with leftist groups in the Dirty War; tens of thousands were interned in secret detention camps, where thousands were tortured and secretly executed. The military government stepped down in 1983, and many senior military leaders involved in the persecution of dissidents were subsequently convicted and imprisoned for their roles in the Dirty War during later presidencies. Argentina retains its historic status as a middle power in international affairs, and is a prominent regional power in the Southern Cone and Latin America. Argentina has the second largest economy in South America, the third-largest in Latin America and is a member of the G-15 and G-20 major economies. It is also a founding member of the United Nations, World Bank, World Trade Organization, Mercosur, Union of South American Nations, Community of Latin American and Caribbean States and the Organization of Ibero-American States. It is the country with the second highest Human Development Index in Latin America with a rating of &#34;very high&#34;. Because of its stability, market size and growing high-tech sector, Argentina is classified as a high-income economy in the 2019 fiscal year.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic12.1533370519352">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Armenia"/>
@@ -148,6 +259,23 @@
 				<resourceData>Armenia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Armenia, officially the Republic of Armenia (Armenian: Հայաստանի Հանրապետություն, translit. Hayastani Hanrapetut'yun, IPA: [hɑjɑstɑˈni hɑnɾɑpɛtutʰˈjun]), is a country in the South Caucasus region of Eurasia. Located in Western Asia on the Armenian Highlands, it is bordered by Turkey to the west, Georgia to the north, the de facto independent Republic of Artsakh and Azerbaijan to the east, and Iran and Azerbaijan's exclave of Nakhchivan to the south.
+
+Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. Urartu was established in 860 BC and by the 6th century BC it was replaced by the Satrapy of Armenia. The Kingdom of Armenia reached its height under Tigranes the Great in the 1st century BC and became the first state in the world to adopt Christianity as its official religion in the late 3rd or early 4th century AD. The official date of state adoption of Christianity is 301. The ancient Armenian kingdom was split between the Byzantine and Sasanian Empires around the early 5th century. Under the Bagratuni dynasty, the Bagratid Kingdom of Armenia was restored in the 9th century. Declining due to the wars against the Byzantines, the kingdom fell in 1045 and Armenia was soon after invaded by the Seljuk Turks. An Armenian principality and later a kingdom Cilician Armenia was located on the coast of the Mediterranean Sea between the 11th and 14th centuries.
+
+Between the 16th and 19th centuries, the traditional Armenian homeland composed of Eastern Armenia and Western Armenia came under the rule of the Ottoman and Iranian empires, repeatedly ruled by either of the two over the centuries. By the 19th century, Eastern Armenia had been conquered by the Russian Empire, while most of the western parts of the traditional Armenian homeland remained under Ottoman rule. During World War I, Armenians living in their ancestral lands in the Ottoman Empire were systematically exterminated in the Armenian Genocide. In 1918, following the Russian Revolution, all non-Russian countries declared their independence after the Russian Empire ceased to exist, leading to the establishment of the First Republic of Armenia. By 1920, the state was incorporated into the Transcaucasian Socialist Federative Soviet Republic, and in 1922 became a founding member of the Soviet Union. In 1936, the Transcaucasian state was dissolved, transforming its constituent states, including the Armenian Soviet Socialist Republic, into full Union republics. The modern Republic of Armenia became independent in 1991 during the dissolution of the Soviet Union.
+
+Armenia recognises the Armenian Apostolic Church, the world's oldest national church, as the country's primary religious establishment. The unique Armenian alphabet was invented by Mesrop Mashtots in 405 AD.
+
+Armenia is a member of the Eurasian Economic Union, the Council of Europe and the Collective Security Treaty Organization. Armenia supports the de facto independent Republic of Artsakh, which was proclaimed in 1991.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic13.1533370555005">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Republic_of_Artsakh"/>
@@ -164,6 +292,21 @@
 				<resourceData>Artsakh</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Republic of Artsakh (Armenian: Արցախի Հանրապետություն Arts'akhi Hanrapetut'yun), or simply Artsakh (/ɑːrtsɑːk/), commonly known by its former name of the Nagorno-Karabakh Republic (/nəˌɡɔːrnoʊ kɑːrəˈbɑːk/) between 1991 and 2017, is a state with limited recognition in the South Caucasus; it is internationally recognized as part of Azerbaijan. The region is populated mostly by Armenians and the primary spoken language is Armenian. Artsakh controls most of the territory of the former Nagorno-Karabakh Autonomous Oblast and some of the surrounding area, giving it a border with Armenia to the west and Iran to the south. Its capital is Stepanakert.
+
+The predominantly Armenian-populated region of Nagorno-Karabakh was claimed by both the Azerbaijan Democratic Republic and the First Republic of Armenia when both countries became independent in 1918 after the fall of the Russian Empire, and a brief war over Nagorno-Karabakh broke out in 1920. The dispute was largely shelved after the Soviet Union established control over the area and created the Nagorno-Karabakh Autonomous Oblast (NKAO) within the Azerbaijan SSR in 1923. During the fall of the Soviet Union, the region re-emerged as a source of dispute between Armenia and Azerbaijan. In 1991, a referendum held in the NKAO and the neighbouring Shahumian region resulted in a declaration of independence based on its right of self-determination. Large-scale ethnic conflict led to the 1991–1994 Nagorno-Karabakh War, which ended with a ceasefire that left the current borders.
+
+The Artsakh Republic is a presidential democracy (in the middle of transforming from a semi-presidential one, after the 2017 referendum) with a unicameral legislature. Its reliance on Armenia means that in many ways it functions de facto as part of Armenia. The country is very mountainous, averaging 1,097 metres (3,599 ft) above sea level. The population is predominantly Christian, most being affiliated with the Armenian Apostolic Church. Several historical monasteries are popular with tourists, mostly from the Armenian diaspora, as most travel can take place only between Armenia and Artsakh.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic14.1533370589586">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Australia"/>
@@ -180,6 +323,23 @@
 				<resourceData>Australia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It is the largest country in Oceania and the world's sixth-largest country by total area. The neighbouring countries are Papua New Guinea, Indonesia and East Timor to the north; the Solomon Islands and Vanuatu to the north-east; and New Zealand to the south-east. Australia's capital is Canberra, and its largest city is Sydney.
+
+For about 60,000 years before the first British settlement in the late 18th century, Australia was inhabited by indigenous Australians, who in documented times have spoken languages classifiable into roughly 250 groups. After the European discovery of the continent by Dutch explorers in 1606, Australia's eastern half was claimed by Great Britain in 1770 and initially settled through penal transportation to the colony of New South Wales from 26 January 1788. The population grew steadily in subsequent decades, and by the 1850s most of the continent had been explored and an additional five self-governing crown colonies established. On 1 January 1901, the six colonies federated, forming the Commonwealth of Australia. Australia has since maintained a stable liberal democratic political system that functions as a federal parliamentary constitutional monarchy comprising six states and several territories.
+
+Australia has the world's 13th-largest economy and tenth-highest per capita income (IMF). With the second-highest human development index globally, the country ranks highly in quality of life, health, education, economic freedom, and civil liberties and political rights. Australia is a member of the ASEAN Plus mechanism, United Nations, G20, Commonwealth of Nations, ANZUS, Organisation for Economic Co-operation and Development (OECD), World Trade Organization, Asia-Pacific Economic Cooperation, and the Pacific Islands Forum. The population of 25 million is highly urbanised and heavily concentrated on the eastern seaboard. Australia has the world's 9th largest immigrant population, with immigrants accounting for 26% of the population.
+
+Being the flattest and driest inhabited continent, with the oldest and least fertile soils, Australia has a landmass of 7,617,930 square kilometres (2,941,300 sq mi). A megadiverse country, its size gives it a wide variety of landscapes, with deserts in the centre, tropical rainforests in the north-east and mountain ranges in the south-east. A gold rush began in Australia in the early 1850s, which boosted the population of the country. Nevertheless, its population density, 2.8 inhabitants per square kilometre, remains among the lowest in the world. Australia generates its income from various sources including mining-related exports, telecommunications, banking and manufacturing. Indigenous Australian rock art is the oldest and richest in the world, dating as far back as 60,000 years and spread across hundreds of thousands of sites.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic15.1533370650096">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Austria"/>
@@ -196,6 +356,19 @@
 				<resourceData>Austria</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Austria, officially the Republic of Austria, is a federal republic and a landlocked country of over 8.8 million people in Central Europe. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The territory of Austria covers 83,879 km2 (32,386 sq mi). The terrain is highly mountainous, lying within the Alps; only 32% of the country is below 500 m (1,640 ft), and its highest point is 3,798 m (12,461 ft). The majority of the population speaks local Bavarian dialects of German as their native language, and German in its standard form is the country's official language. Other local official languages are Hungarian, Burgenland Croatian, and Slovene.
+
+Austria is a parliamentary representative democracy comprising nine federal states. The capital and largest city, with a population exceeding 1.8 million, is Vienna. Other major urban areas of Austria include Graz, Linz, Salzburg and Innsbruck. Austria is consistently ranked as one of the richest countries in the world by per capita GDP terms. The country has developed a high standard of living and in 2014 was ranked 21st in the world for its Human Development Index. The republic declared its perpetual neutrality in foreign political affairs in 1955. Austria has been a member of the United Nations since 1955, joined the European Union in 1995, and is a founder of the OECD. Austria also signed the Schengen Agreement in 1995, and adopted the euro currency in 1999.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic16.1533370686942">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Azerbaijan"/>
@@ -212,6 +385,23 @@
 				<resourceData>Azerbaijan</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Azerbaijan, officially the Republic of Azerbaijan, is a country in the South Caucasus region of Eurasia at the crossroads of Eastern Europe and Western Asia. It is bounded by the Caspian Sea to the east, Russia to the north, Georgia to the northwest, Armenia and the de facto independent Republic of Artsakh to the west and Iran to the south. The exclave of Nakhchivan is bound by Armenia to the north and east, Iran to the south and west, and has an 11 km long border with Turkey in the north west.
+
+The Azerbaijan Democratic Republic proclaimed its independence in 1918 and became the first democratic state in the Muslim-oriented world. The country was incorporated into the Soviet Union in 1920 as the Azerbaijan Soviet Socialist Republic. The modern Republic of Azerbaijan proclaimed its independence on 30 August 1991, prior to the official dissolution of the USSR in December 1991. In September 1991, the Armenian majority of the disputed Nagorno-Karabakh region seceded to form the Republic of Artsakh. The region and seven adjacent districts outside it became de facto independent with the end of the Nagorno-Karabakh War in 1994. These regions are internationally recognized as part of Azerbaijan pending a solution to the status of the Nagorno-Karabakh, found through negotiations facilitated by the OSCE.
+
+Azerbaijan is a unitary semi-presidential republic. The country is a member state of the Council of Europe, the OSCE and the NATO Partnership for Peace (PfP) program. It is one of six independent Turkic states, an active member of the Turkic Council and the TÜRKSOY community. Azerbaijan has diplomatic relations with 158 countries and holds membership in 38 international organizations. It is one of the founding members of GUAM, the Commonwealth of Independent States (CIS) and the Organization for the Prohibition of Chemical Weapons. A member of the United Nations since 1992 after its independence, Azerbaijan was elected to membership in the newly established Human Rights Council by the United Nations General Assembly on 9 May 2006. Its term of office began on 19 June 2006. Azerbaijan is also a member state of the Non-Aligned Movement, holds observer status in World Trade Organization, and is a correspondent at the International Telecommunication Union.
+
+The Constitution of Azerbaijan does not declare an official religion and all major political forces in the country are secularist. However, the majority of the population are of Muslim background. More than 89% of the population is Shia. Most Azerbaijanis, however, do not actively practice any religion, with 53% stating religion has little to no importance in their lives, according to Pew Research Center and Gallup polls. Alcohol and non-Islamic places are also permitted. Azerbaijan has a high level of human development which ranks on par with most Eastern European countries. It has a high rate of economic development and literacy, as well as a low rate of unemployment. However, the ruling party, the New Azerbaijan Party, has been accused of authoritarianism and human rights abuses.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic17.1533370719626">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/The_Bahamas"/>
@@ -228,6 +418,23 @@
 				<resourceData>Bahamas</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Bahamas, known officially as the Commonwealth of The Bahamas, is an archipelagic state within the Lucayan Archipelago. It consists of more than 700 islands, cays, and islets in the Atlantic Ocean, and is located north of Cuba and Hispaniola (Haiti and the Dominican Republic), northwest of the Turks and Caicos Islands, southeast of the United States state of Florida, and east of the Florida Keys. The capital is Nassau on the island of New Providence. The designation of &#34;the Bahamas&#34; can refer either to the country or to the larger island chain that it shares with the Turks and Caicos Islands. The Royal Bahamas Defence Force describes the Bahamas territory as encompassing 470,000 km2 (180,000 sq mi) of ocean space.
+
+The Bahamas is the site of Columbus' first landfall in the New World in 1492. At that time, the islands were inhabited by the Lucayan, a branch of the Arawakan-speaking Taino people. Although the Spanish never colonised The Bahamas, they shipped the native Lucayans to slavery in Hispaniola. The islands were mostly deserted from 1513 until 1648, when English colonists from Bermuda settled on the island of Eleuthera.
+
+The Bahamas became a British crown colony in 1718, when the British clamped down on piracy. After the American War of Independence, the Crown resettled thousands of American Loyalists in the Bahamas; they brought their slaves with them and established plantations on land grants. Africans constituted the majority of the population from this period. The slave trade was abolished by the British in 1807; slavery in the Bahamas was abolished in 1834. Subsequently, the Bahamas became a haven for freed African slaves; the Royal Navy resettled Africans there liberated from illegal slave ships, American slaves and Seminoles escaped here from Florida, and the government freed American slaves carried on United States domestic ships that had reached the Bahamas due to weather. Today, Afro-Bahamians make up nearly 90% of the population.
+
+The Bahamas became an independent Commonwealth realm in 1973, retaining the British monarch, then and currently Queen Elizabeth II, as its head of state. In terms of gross domestic product per capita, The Bahamas is one of the richest countries in the Americas (following the United States and Canada), with an economy based on tourism and finance.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic18.1533370741438">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bahrain"/>
@@ -244,6 +451,24 @@
 				<resourceData>Bahrain</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Bahrain, officially the Kingdom of Bahrain, is an Arab constitutional monarchy in the Persian Gulf. It is an island country consisting of a small archipelago centered around Bahrain Island, situated between the Qatar peninsula and the north eastern coast of Saudi Arabia, to which it is connected by the 25-kilometre (16 mi) King Fahd Causeway. Bahrain's population is 1,234,571 (c. 2010), including 666,172 non-nationals. It is 765.3 square kilometres (295.5 sq mi) in size, making it the third-smallest nation in Asia after the Maldives and Singapore.
+
+Bahrain is the site of the ancient Dilmun civilisation. It has been famed since antiquity for its pearl fisheries, which were considered the best in the world into the 19th century. Bahrain was one of the earliest areas to convert to Islam, in 628 CE. Following a period of Arab rule, Bahrain was occupied by the Portuguese in 1521, who in turn were expelled in 1602 by Shah Abbas I of the Safavid dynasty under the Persian Empire. In 1783, the Bani Utbah clan captured Bahrain from Nasr Al-Madhkur and it has since been ruled by the Al Khalifa royal family, with Ahmed al Fateh as Bahrain's first hakim.
+
+In the late 1800s, following successive treaties with the British, Bahrain became a protectorate of the United Kingdom. In 1971, Bahrain declared independence. Formerly an emirate, Bahrain was declared a kingdom in 2002. In 2011, the country experienced protests inspired by the regional Arab Spring. Bahrain's ruling al-Khalifa royal family has been accused and criticized for human rights abuses, including imprisonment, torture and execution of dissents, political opposition figures and its Shia Muslim population.
+
+Bahrain had the first post-oil economy in the Persian Gulf. Since the late 20th century, Bahrain has invested in the banking and tourism sectors. Many large financial institutions have a presence in Manama, the country's capital. It has a high Human Development Index and was recognised by the World Bank as a high-income economy. Bahrain is a member of the United Nations, Non-Aligned Movement, Arab League, Organisation of Islamic Cooperation and the Gulf Cooperation Council.
+
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic19.1533370783387">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bangladesh"/>
@@ -260,6 +485,23 @@
 				<resourceData>Bangladesh</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Bangladesh, officially the People's Republic of Bangladesh (গণপ্রজাতন্ত্রী বাংলাদেশ Gônoprojatontri Bangladesh), is a country in South Asia. It shares land borders with India and Myanmar (Burma). Nepal, Bhutan and China are located near Bangladesh but do not share a border with it. The country's maritime territory in the Bay of Bengal is roughly equal to the size of its land area. Bangladesh is the world's eighth most populous country. Dhaka is its capital and largest city, followed by Chittagong, which has the country's largest port. Bangladesh forms the largest and easternmost part of the Bengal region. Bangladeshis include people from a range of ethnic groups and religions. Bengalis, who speak the official Bengali language, make up 98% of the population. The politically dominant Bengali Muslims make the nation the world's third largest Muslim-majority country. Islam is the official religion of Bangladesh.
+
+Most of Bangladesh is covered by the Bengal delta, the largest delta on Earth. The country has 700 rivers and 8,046 km (5,000 mi) of inland waterways. Highlands with evergreen forests are found in the northeastern and southeastern regions of the country. Bangladesh has many islands and a coral reef. The longest unbroken sea beach of the world, Cox's Bazar Beach, is located in the southeast. It is home to the Sundarbans, the largest mangrove forest in the world. The country's biodiversity includes a vast array of plant and wildlife, including endangered Bengal tigers, the national animal.
+
+The Greeks and Romans identified the region as Gangaridai, a powerful kingdom of the historical Indian subcontinent, in the 3rd century BCE. Archaeological research has unearthed several ancient cities in Bangladesh, which enjoyed international trade links for millennia. The Bengal Sultanate and Mughal Bengal transformed the region into a cosmopolitan Islamic imperial power between the 14th and 18th centuries. The region was home to many principalities that made use of their inland naval prowess. It was also a notable center of the global muslin and silk trade. As part of British India, the region was influenced by the Bengali renaissance and played an important role in anti-colonial movements. The Partition of British India made East Bengal a part of the Dominion of Pakistan; and renamed it as East Pakistan. The region witnessed the Bengali Language Movement in 1952 and the Bangladesh Liberation War in 1971. After independence was achieved, a parliamentary republic was established. A presidential government was in place between 1975 and 1990, followed by a return to parliamentary democracy. The country continues to face challenges in the areas of poverty, education, healthcare and corruption.
+
+Bangladesh is a middle power and a developing nation. Listed as one of the Next Eleven, its economy ranks 43th in terms of nominal gross domestic product and 29th in terms of purchasing power parity. It is one of the largest textile exporters in the world. Its major trading partners are the European Union, the United States, China, India, Japan, Malaysia and Singapore. With its strategically vital location between South, East and Southeast Asia, Bangladesh is an important promoter of regional connectivity and cooperation. It is a founding member of SAARC, BIMSTEC, the Bangladesh-China-India-Myanmar Forum for Regional Cooperation and the Bangladesh Bhutan India Nepal Initiative. It is also a member of the Organisation of Islamic Cooperation, Commonwealth of Nations, the Developing 8 Countries, the OIC, the Indian-Ocean Rim Association, the Non Aligned Movement, the Group of 77 and the World Trade Organization. Bangladesh is one of the largest contributors to United Nations peacekeeping forces.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic20.1533371039598">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Barbados"/>
@@ -276,6 +518,21 @@
 				<resourceData>Barbados</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Barbados is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of North America. It is 34 kilometres (21 miles) in length and up to 23 km (14 mi) in width, covering an area of 432 km2 (167 sq mi). It is situated in the western area of the North Atlantic and 100 km (62 mi) east of the Windward Islands and the Caribbean Sea; therein, Barbados is east of the Windward Islands, part of the Lesser Antilles, roughly at 13°N of the equator. Where it is about 168 km (104 mi) east of both the countries of Saint Lucia and Saint Vincent and the Grenadines and 400 km (250 mi) north-east of Trinidad and Tobago. Barbados is outside the principal Atlantic hurricane belt. Its capital and largest city is Bridgetown.
+
+Inhabited by Kalinago people since the 13th century, and prior to that by other Amerindians, Barbados was visited by Spanish navigators in the late 15th century and claimed for the Spanish Crown. It first appeared in a Spanish map in 1511. The Portuguese visited the island in 1536, but they left it unclaimed, with their only remnants being an introduction of wild hogs for a good supply of meat whenever the island was visited. An English ship, the Olive Blossom, arrived in Barbados in 1625; its men took possession of it in the name of King James I. In 1627, the first permanent settlers arrived from England, and it became an English and later British colony. As a wealthy sugar colony, it became an English centre of the African slave trade until that trade was outlawed in 1807, with final emancipation of slaves in Barbados occurring over a period of years from 1833.
+
+On 30 November 1966, Barbados became an independent state and Commonwealth realm with the British monarch (currently Queen Elizabeth II) as hereditary head of state. It has a population of 284,996 people, predominantly of African descent. Despite being classified as an Atlantic island, Barbados is considered to be a part of the Caribbean, where it is ranked as a leading tourist destination. Forty percent of the tourists come from the UK, with the US and Canada making up the next large groups of visitors to the island. In 2016, Transparency International's Corruption Perceptions Index ranked Barbados sixth in the Americas after Canada, the United States, Uruguay, Chile and the Bahamas.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic0.1533483185439">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Belarus"/>
@@ -292,6 +549,23 @@
 				<resourceData>Belarus</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Belarus, officially the Republic of Belarus (Belarusian: Рэспубліка Беларусь; Russian: Республика Беларусь), formerly known by its Russian name Byelorussia or Belorussia (Russian: Белоруссия, Byelorussiya), is a landlocked country in Eastern Europe bordered by Russia to the northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest. Its capital and most populous city is Minsk. Over 40% of its 207,600 square kilometres (80,200 sq mi) is forested. Its major economic sectors are service industries and manufacturing. Until the 20th century, different states at various times controlled the lands of modern-day Belarus, including the Principality of Polotsk (11th to 14th centuries), the Grand Duchy of Lithuania, the Polish–Lithuanian Commonwealth, and the Russian Empire.
+
+In the aftermath of the 1917 Russian Revolution, Belarus declared independence as the Belarusian People's Republic, which was conquered by Soviet Russia. The Socialist Soviet Republic of Byelorussia became a founding constituent republic of the Soviet Union in 1922 and was renamed as the Byelorussian Soviet Socialist Republic (Byelorussian SSR). Belarus lost almost half of its territory to Poland after the Polish–Soviet War of 1919–1921. Much of the borders of Belarus took their modern shape in 1939, when some lands of the Second Polish Republic were reintegrated into it after the Soviet invasion of Poland, and were finalized after World War II. During WWII, military operations devastated Belarus, which lost about a third of its population and more than half of its economic resources. The republic was redeveloped in the post-war years. In 1945 the Byelorussian SSR became a founding member of the United Nations, along with the Soviet Union and the Ukrainian SSR.
+
+The parliament of the republic proclaimed the sovereignty of Belarus on 27 July 1990, and during the dissolution of the Soviet Union, Belarus declared independence on 25 August 1991. Alexander Lukashenko has served as the country's first president since 1994. Belarus has been labeled &#34;Europe's last dictatorship&#34; by some Western journalists, on account of Lukashenko's self-described authoritarian style of government. Lukashenko continued a number of Soviet-era policies, such as state ownership of large sections of the economy. Elections under Lukashenko's rule have been widely criticized as unfair; and according to many countries and organizations, political opposition has been violently suppressed. Belarus is also the last country in Europe using the death penalty. Belarus's Democracy Index rating was the lowest in Europe until 2014 (when it was passed by Russia), the country is labelled as &#34;not free&#34; by Freedom House, as &#34;repressed&#34; in the Index of Economic Freedom, and is rated as by far the worst country for press freedom in Europe in the 2013–14 Press Freedom Index published by Reporters Without Borders, which ranks Belarus 157th out of 180 nations.
+
+In 2000, Belarus and Russia signed a treaty for greater cooperation, forming the Union State. Over 70% of Belarus's population of 9.49 million resides in urban areas. More than 80% of the population is ethnic Belarusian, with sizable minorities of Russians, Poles and Ukrainians. Since a referendum in 1995, the country has had two official languages: Belarusian and Russian. The Constitution of Belarus does not declare any official religion, although the primary religion in the country is Eastern Orthodox Christianity. The second-most widespread religion, Roman Catholicism, has a much smaller following; nevertheless, Belarus celebrates both Orthodox and Catholic versions of Christmas and Easter as national holidays. Belarus is a member of the United Nations since its founding, the Commonwealth of Independent States, CSTO, EEU, and the Non-Aligned Movement. Belarus has shown no aspirations for joining the European Union but nevertheless maintains a bilateral relationship with the organisation, and likewise participates in two EU projects: the Eastern Partnership and the Baku Initiative.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic1.1533483223323">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Belgium"/>
@@ -308,6 +582,27 @@
 				<resourceData>Belgium</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Belgium, officially the Kingdom of Belgium, is a country in Western Europe bordered by France, the Netherlands, Germany and Luxembourg. A small and densely populated country, it covers an area of 30,528 square kilometres (11,787 sq mi) and has a population of more than 11 million. Straddling the cultural boundary between Germanic and Latin Europe, Belgium is home to two main linguistic groups: the Dutch-speaking, mostly Flemish community, which constitutes about 59 percent of the population, and the French-speaking, mostly Walloon population, which comprises about 40 percent of all Belgians. Additionally, there is a small group of German speakers, numbering around one percent, who live in the East Cantons. The capital and largest city is Brussels; other major cities are Antwerp, Ghent, Charleroi and Liège.
+
+Historically, Belgium was part of an area known as the Low Countries, a somewhat larger region than the current Benelux group of states that also included parts of northern France and western Germany. Its name is derived from the Latin word Belgica, after the Roman province of Gallia Belgica. From the end of the Middle Ages until the 17th century, the area of Belgium was a prosperous and cosmopolitan centre of commerce and culture. Between the 16th and early 19th centuries, Belgium served as the battleground between many European powers, earning the moniker the &#34;Battlefield of Europe&#34;, a reputation strengthened by both world wars. The country emerged in 1830 following the Belgian Revolution when it seceded from the Netherlands.
+
+Belgium is a federal constitutional monarchy with a parliamentary system of governance. It is divided into three highly autonomous regions and three communities: the Dutch-speaking region of Flanders in the north, the mostly French-speaking Wallonia region in the south, and the German-speaking cantons in the east. The Brussels-Capital Region is an officially bilingual (French and Dutch) enclave within the Flemish Region, though French is the dominant language. A German-speaking Community exists in eastern Wallonia. Belgium's linguistic diversity and related political conflicts are reflected in its political history and complex system of governance, made up of six different governments.
+
+Belgium participated in the Industrial Revolution and, during the course of the 20th century, possessed a number of colonies in Africa. The second half of the 20th century was marked by rising tensions between the Dutch-speaking and the French-speaking citizens fueled by differences in language and culture and the unequal economic development of Flanders and Wallonia. This continuing antagonism has led to several far-reaching reforms, resulting in a transition from a unitary to a federal arrangement during the period from 1970 to 1993. Despite the reforms, tensions between the groups have remained, if not increased; there is significant separatism particularly among the Flemish; controversial language laws exist such as the municipalities with language facilities; and the formation of a coalition government took 18 months following the June 2010 federal election, a world record. Unemployment in Wallonia is more than double that of Flanders, which boomed after the war.
+
+Belgium is one of the six founding countries of the European Union and hosts the official seats of the European Commission, the Council of the European Union, and the European Council, as well as a seat of the European Parliament in the country's capital, Brussels. Belgium is also a founding member of the Eurozone, NATO, OECD, and WTO, and a part of the trilateral Benelux Union and the Schengen Area. Brussels hosts several of the EU's official seats as well as the headquarters of many major international organizations such as NATO.
+
+Belgium is a developed country, with an advanced high-income economy. The country achieves very high standards of living, life quality, healthcare, education, and is categorized as &#34;very high&#34; in the Human Development Index. It also ranks as one of the safest or most peaceful countries in the world.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic2.1533483251022">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Belize"/>
@@ -324,6 +619,27 @@
 				<resourceData>Belize</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Belize, formerly British Honduras, is an independent Commonwealth realm on the eastern coast of Central America. Belize is bordered on the north by Mexico, on the south and west by Guatemala, and on the east by the Caribbean Sea. Its mainland is about 290 km (180 mi) long and 110 km (68 mi) wide.
+
+Belize has an area of 22,800 square kilometres (8,800 sq mi) and a population of 387,879 (2017). It has the lowest population and population density in Central America. The country's population growth rate of 1.87% per year (2015) is the second highest in the region and one of the highest in the Western Hemisphere.
+
+Belize's abundance of terrestrial and marine species and its diversity of ecosystems give it a key place in the globally significant Mesoamerican Biological Corridor.
+
+Belize has a diverse society, composed of many cultures and languages that reflect its rich history. English is the official language of Belize, while Belizean Creole is an unofficial native language. Over half the population is multilingual, with Spanish being the second most common spoken language.
+
+Belize is considered a Central American and Caribbean nation with strong ties to both the American and Caribbean regions. It is a member of the Caribbean Community (CARICOM), the Community of Latin American and Caribbean States (CELAC), and the Central American Integration System (SICA), the only country to hold full membership in all three regional organisations. Belize is a Commonwealth realm, with Queen Elizabeth II as its monarch and head of state.
+
+Belize is known for its September Celebrations, its extensive barrier reef coral reefs and punta music.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic3.1533483298341">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Benin"/>
@@ -340,6 +656,23 @@
 				<resourceData>Benin</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Benin, officially the Republic of Benin (French: République du Bénin) and formerly Dahomey, is a country in West Africa. It is bordered by Togo to the west, Nigeria to the east, and Burkina Faso and Niger to the north. The majority of its population lives on the small southern coastline of the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean. The capital of Benin is Porto-Novo, but the seat of government is in Cotonou, the country's largest city and economic capital. Benin covers an area of 114,763 square kilometres (44,310 sq mi) and its population in 2016 was estimated to be approximately 10.87 million. Benin is a tropical nation, highly dependent on agriculture, with substantial employment and income arising from subsistence farming.
+
+Official language of Benin is French. However, indigenous languages such as Fon and Yoruba are commonly spoken. The largest religious group in Benin is Roman Catholicism, followed closely by Islam, Vodun and Protestantism. Benin is a member of the United Nations, the African Union, the Organisation of Islamic Cooperation, the South Atlantic Peace and Cooperation Zone, La Francophonie, the Community of Sahel-Saharan States, the African Petroleum Producers Association and the Niger Basin Authority.
+
+From the 17th to the 19th century, the main political entities in the area were the Kingdom of Dahomey, along with the city-state of Porto-Novo, and a large area with many different tribes to the north. This region was referred to as the Slave Coast from as early as the 17th century due to the large number of slaves shipped to the New World during the Trans-Atlantic slave trade. After slavery was abolished, France took over the country and renamed it French Dahomey. In 1960, Dahomey gained full independence from France. It has had a tumultuous history since then, with many different democratic governments, military coups, and military governments.
+
+A Marxist–Leninist state called the People's Republic of Benin existed between 1975 and 1990. In 1991, it was replaced by the current multi-party Republic of Benin.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic4.1533483328529">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bhutan"/>
@@ -356,6 +689,25 @@
 				<resourceData>Bhutan</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Bhutan, officially the Kingdom of Bhutan (འབྲུག་རྒྱལ་ཁབ་ Druk Gyal Khap), is a landlocked country in South Asia. Located in the Eastern Himalayas, it is bordered by Tibet Autonomous Region of China in the north, the Sikkim state of India and the Chumbi Valley of Tibet in the west, the Arunachal Pradesh state of India in the east, and the states of Assam and West Bengal in the south. Bhutan is geopolitically in South Asia and is the region's second least populous nation after the Maldives. Thimphu is its capital and largest city, while Phuntsholing is its financial center.
+
+The independence of Bhutan has endured for centuries and it has never been colonized in its history. Situated on the ancient Silk Road between Tibet, the Indian subcontinent and Southeast Asia, the Bhutanese state developed a distinct national identity based on Buddhism. Headed by a spiritual leader known as the Zhabdrung Rinpoche, the territory was composed of many fiefdoms and governed as a Buddhist theocracy. Following a civil war in the 19th century, the House of Wangchuck reunited the country and established relations with the British Empire. Bhutan fostered a strategic partnership with India during the rise of Chinese communism and has a disputed border with the People's Republic of China. In 2008, it transitioned from an absolute monarchy to a constitutional monarchy and held the first election to the National Assembly of Bhutan. The National Assembly of Bhutan is part of the bicameral parliament of the Bhutanese democracy.
+
+The country's landscape ranges from lush subtropical plains in the south to the sub-alpine Himalayan mountains in the north, where there are peaks in excess of 7,000 metres (23,000 ft). The highest mountain in Bhutan is the Gangkhar Puensum, which is also a strong candidate for the highest unclimbed mountain in the world. There is also diverse wildlife in Bhutan.
+
+In South Asia, Bhutan ranks first in economic freedom, ease of doing business, and peace; second in per capita income; and is the least corrupt country as of 2016. However, Bhutan continues to be a least developed country. Hydroelectricity accounts for the major share of its exports. The government is a parliamentary democracy; the head of state is the King of Bhutan, known as the &#34;Dragon King&#34;. Bhutan maintains diplomatic relations with 52 countries and the European Union, but does not have formal ties with the five permanent members of the United Nations Security Council. It is a member of the United Nations, SAARC, BIMSTEC and the Non Aligned Movement. The Royal Bhutan Army maintains extensive military relations with the Indian Armed Forces.
+
+Bhutan is also notable for pioneering the concept of gross national happiness.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic5.1533483364230">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bolivia"/>
@@ -372,6 +724,25 @@
 				<resourceData>Bolivia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Bolivia, officially the Plurinational State of Bolivia (Spanish: Estado Plurinacional de Bolivia), is a landlocked country located in western-central South America. The capital is Sucre while the seat of government is located in La Paz. The largest city and principal economic and financial center is Santa Cruz de la Sierra, located on the Llanos Orientales (tropical lowlands) a mostly flat region in the east of Bolivia.
+
+It is constitutionally a unitary state, divided into nine departments. Its geography varies from the peaks of the Andes in the West, to the Eastern Lowlands, situated within the Amazon Basin. It is bordered to the north and east by Brazil, to the southeast by Paraguay, to the south by Argentina, to the southwest by Chile, and to the northwest by Peru. One-third of the country is within the Andean mountain range. With 1,098,581 km2 (424,164 sq mi) of area, Bolivia is the 5th largest country in South America and the 27th largest in the world.
+
+The country's population, estimated at 11 million, is multiethnic, including Amerindians, Mestizos, Europeans, Asians and Africans. The racial and social segregation that arose from Spanish colonialism has continued to the modern era. Spanish is the official and predominant language, although 36 indigenous languages also have official status, of which the most commonly spoken are Guarani, Aymara and Quechua languages.
+
+Before Spanish colonization, the Andean region of Bolivia was part of the Inca Empire, while the northern and eastern lowlands were inhabited by independent tribes. Spanish conquistadors arriving from Cuzco and Asunción took control of the region in the 16th century. During the Spanish colonial period Bolivia was administered by the Royal Audiencia of Charcas. Spain built its empire in great part upon the silver that was extracted from Bolivia's mines. After the first call for independence in 1809, 16 years of war followed before the establishment of the Republic, named for Simón Bolívar. Over the course of the 19th and early 20th century Bolivia lost control of several peripheral territories to neighboring countries including the seizure of its coastline by Chile in 1879. Bolivia remained relatively politically stable until 1971, when Hugo Banzer led a coup d'état which replaced the socialist government of Juan José Torres with a military dictatorship headed by Banzer; Torres was murdered in Buenos Aires, Argentina by a right-wing death squad in 1976. Banzer's regime cracked down on leftist and socialist opposition and other forms of dissent, resulting in the torture and deaths of a number of Bolivian citizens. Banzer was ousted in 1978 and later returned as the democratically elected president of Bolivia from 1997 to 2001.
+
+Modern Bolivia is a charter member of the UN, IMF, NAM, OAS, ACTO, Bank of the South, ALBA and USAN. For over a decade Bolivia has had one of the fastest economic growths in Latin America, however it remains one of the poorest countries in South America. It is a developing country, with a medium ranking in the Human Development Index, a poverty level of 38.6 percent, and it has one of the lowest crime rates in Latin America. Its main economic activities include agriculture, forestry, fishing, mining, and manufacturing goods such as textiles, clothing, refined metals, and refined petroleum. Bolivia is very rich in minerals, especially tin.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic6.1533483388273">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"/>
@@ -388,6 +759,19 @@
 				<resourceData>Bosnia and Herzegovina</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Bosnia and Herzegovina, sometimes called Bosnia–Herzegovina, and often known informally as Bosnia, is a country in Southeastern Europe located on the Balkan Peninsula. Sarajevo is the capital and largest city. Bosnia and Herzegovina is an almost landlocked country – it has a narrow cost at the Adriatic Sea, about 20 kilometres (12 miles) long surrounding the town of Neum. It is bordered by Croatia to the north, west and south, Serbia to the east, and Montenegro to the southeast. In the central and eastern interior of the country the geography is mountainous, in the northwest it is moderately hilly, and the northeast is predominantly flatland. The inland, Bosnia, is a geographically larger region and has a moderate continental climate, with hot summers and cold and snowy winters. The southern tip, Herzegovina, has a Mediterranean climate and plain topography. Bosnia and Herzegovina traces permanent human settlement back to the Neolithic age, during and after which it was populated by several Illyrian and Celtic civilizations. Culturally, politically, and socially, the country has a rich history, having been first settled by the Slavic peoples that populate the area today from the 6th through to the 9th centuries. In the 12th century the Banate of Bosnia was established, which evolved into the Kingdom of Bosnia in the 14th century, after which it was annexed into the Ottoman Empire, under whose rule it remained from the mid-15th to the late 19th centuries. The Ottomans brought Islam to the region, and altered much of the cultural and social outlook of the country. This was followed by annexation into the Austro-Hungarian Monarchy, which lasted up until World War I. In the interwar period, Bosnia and Herzegovina was part of the Kingdom of Yugoslavia and after World War II, it was granted full republic status in the newly formed Socialist Federal Republic of Yugoslavia. Following the dissolution of Yugoslavia, the republic proclaimed independence in 1992, which was followed by the Bosnian War, lasting until late 1995.
+
+Bosnia and Herzegovina maintains high literacy, life expectancy and education levels and is one of the most frequently visited countries in the region, projected to have the third highest tourism growth rate in the world between 1995 and 2020. It is known for its natural environment and cultural heritage inherited from six historical civilizations, its cuisine, winter sports, its eclectic and unique music, architecture and its festivals, some of which are the largest and most prominent of their kind in Southeastern Europe. The country is home to three main ethnic groups or, officially, constituent peoples, as specified in the constitution. Bosniaks are the largest group of the three, with Serbs second and Croats third. A native of Bosnia and Herzegovina, regardless of ethnicity, is usually identified in English as a Bosnian. Bosnia and Herzegovina has a bicameral legislature and a three-member Presidency composed of a member of each major ethnic group. However, the central government's power is highly limited, as the country is largely decentralized and comprises two autonomous entities: the Federation of Bosnia and Herzegovina and Republika Srpska, with a third region, the Brčko District, governed under local government. The Federation of Bosnia and Herzegovina is itself complex and consists of 10 cantons. The country is a potential candidate for membership to the European Union and has been a candidate for North Atlantic Treaty Organisation membership since April 2010, when it received a Membership Action Plan at a summit in Tallinn. The country has been a member of the Council of Europe since April 2002 and a founding member of the Mediterranean Union upon its establishment in July 2008.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic7.1533483418045">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Botswana"/>
@@ -404,6 +788,23 @@
 				<resourceData>Botswana</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Botswana, officially the Republic of Botswana (Tswana: Lefatshe la Botswana), is a landlocked country located in Southern Africa. Formerly the British protectorate of Bechuanaland, Botswana adopted its new name after becoming independent within the Commonwealth on 30 September 1966. Since then, it has maintained a strong tradition of stable representative democracy, with a consistent record of uninterrupted democratic elections and the best perceived corruption ranking in Africa since at least 1998.
+
+Botswana is topographically flat, with up to 70 percent of its territory being the Kalahari Desert. It is bordered by South Africa to the south and southeast, Namibia to the west and north, and Zimbabwe to the northeast. Its border with Zambia to the north near Kazungula is poorly defined but is, at most, a few hundred metres long.
+
+A mid-sized country of just over 2 million people, Botswana is one of the most sparsely populated countries in the world. Around 10 percent of the population lives in the capital and largest city, Gaborone. Formerly one of the poorest countries in the world—with a GDP per capita of about US$70 per year in the late 1960s—Botswana has since transformed itself into one of the world's fastest-growing economies. The economy is dominated by mining, cattle, and tourism. Botswana boasts a GDP (purchasing power parity) per capita of about $18,825 per year as of 2015, which is one of the highest in Africa. Its high gross national income (by some estimates the fourth-largest in Africa) gives the country a relatively high standard of living and the highest Human Development Index of continental Sub-Saharan Africa.
+
+Botswana is a member of the African Union, the Southern African Development Community, the Commonwealth of Nations, and the United Nations. The country has been among the hardest hit by the HIV/AIDS epidemic. Despite the success in programmes to make treatments available to those infected, and to educate the populace in general about how to stop the spread of HIV/AIDS, the number of people with AIDS rose from 290,000 in 2005 to 320,000 in 2013.:A20 As of 2014, Botswana has the third-highest prevalence rate for HIV/AIDS, with roughly 20% of the adult population being infected.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic8.1533483445153">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Brazil"/>
@@ -420,6 +821,23 @@
 				<resourceData>Brazil</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 208 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. The capital is Brasília, and the most populated city is São Paulo. The federation is composed of the union of the Federal District, the 26 states, and the 5,570 municipalities. It is the largest country to have Portuguese as an official language and the only one in the Americas, besides being one of the most multicultural and ethnically diverse nations, due to the strong immigration from various places in the world.
+
+Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 kilometers (4,655 mi). It borders all other South American countries except Ecuador and Chile and covers 47.3% of the continent's land area. Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats. This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection.
+
+Brazil was inhabited by numerous tribal nations prior to the landing in 1500 of explorer Pedro Álvares Cabral, who claimed the area for the Portuguese Empire. Brazil remained a Portuguese colony until 1808, when the capital of the empire was transferred from Lisbon to Rio de Janeiro. In 1815, the colony was elevated to the rank of kingdom upon the formation of the United Kingdom of Portugal, Brazil and the Algarves. Independence was achieved in 1822 with the creation of the Empire of Brazil, a unitary state governed under a constitutional monarchy and a parliamentary system. The ratification of the first constitution in 1824 led to the formation of a bicameral legislature, now called the National Congress. The country became a presidential republic in 1889 following a military coup d'état. An authoritarian military junta came to power in 1964 and ruled until 1985, after which civilian governance resumed. Brazil's current constitution, formulated in 1988, defines it as a democratic federal republic. Due to its rich culture and history, the country ranks thirteenth in the world by number of UNESCO World Heritage Sites.
+
+Brazil has the eighth largest GDP in the world by both nominal and PPP measures (as of 2017). The nation is one of the world's major breadbaskets, being the largest producer of coffee for the last 150 years. It is classified as an upper-middle income economy by the World Bank and a newly industrialized country, which holds the largest share of global wealth in Latin America. As a regional and middle power, the country has international recognition and influence, being also classified as an emerging global power and a potential superpower by several analysts. Brazil is a founding member of the United Nations, the G20, BRICS, Union of South American Nations, Mercosul, Organization of American States, Organization of Ibero-American States and the Community of Portuguese Language Countries.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic9.1533483471036">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Brunei"/>
@@ -436,6 +854,23 @@
 				<resourceData>Brunei</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Brunei, officially the Nation of Brunei, the Abode of Peace (Malay: Negara Brunei Darussalam, Jawi: نڬارا بروني دارالسلام‬), is a sovereign state located on the north coast of the island of Borneo in Southeast Asia. Apart from its coastline with the South China Sea, the country is completely surrounded by the Malaysian state of Sarawak. It is separated into two parts by the Sarawak district of Limbang. Brunei is the only sovereign state completely on the island of Borneo; the remainder of the island's territory is divided between the nations of Malaysia and Indonesia. Brunei's population was 423,196 in 2016.
+
+At the peak of the Bruneian Empire, Sultan Bolkiah (reigned 1485–1528) is alleged to have had control over most regions of Borneo, including modern-day Sarawak and Sabah, as well as the Sulu Archipelago off the northeast tip of Borneo, Seludong (modern-day Manila), and the islands off the northwest tip of Borneo. The maritime state was visited by Spain's Magellan Expedition in 1521 and fought against Spain in the 1578 Castilian War.
+
+During the 19th century, the Bruneian Empire began to decline. The Sultanate ceded Sarawak (Kuching) to James Brooke and installed him as the White Rajah, and it ceded Sabah to the British North Borneo Chartered Company. In 1888, Brunei became a British protectorate and was assigned a British resident as colonial manager in 1906. After the Japanese occupation during World War II, in 1959 a new constitution was written. In 1962, a small armed rebellion against the monarchy was ended with the help of the British.
+
+Brunei gained its independence from the United Kingdom on 1 January 1984. Economic growth during the 1990s and 2000s, with the GDP increasing 56% from 1999 to 2008, transformed Brunei into an industrialised country. It has developed wealth from extensive petroleum and natural gas fields. Brunei has the second-highest Human Development Index among the Southeast Asian nations, after Singapore, and is classified as a &#34;developed country&#34;. According to the International Monetary Fund (IMF), Brunei is ranked fifth in the world by gross domestic product per capita at purchasing power parity. The IMF estimated in 2011 that Brunei was one of two countries (the other being Libya) with a public debt at 0% of the national GDP. Forbes also ranks Brunei as the fifth-richest nation out of 182, based on its petroleum and natural gas fields.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic10.1533483515426">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Bulgaria"/>
@@ -452,6 +887,21 @@
 				<resourceData>Bulgaria</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Bulgaria, officially the Republic of Bulgaria (Bulgarian: Република България, tr. Republika Bǎlgariya, IPA: [rɛˈpublikɐ bɐɫˈɡarijɐ]), is a country in southeastern Europe. It is bordered by Romania to the north, Serbia and Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. The capital and largest city is Sofia; other major cities are Plovdiv, Varna and Burgas. With a territory of 110,994 square kilometres (42,855 sq mi), Bulgaria is Europe's 16th-largest country.
+
+Organised prehistoric cultures appeared in Bulgarian lands during the Neolithic period. In Antiquity, the region was a battleground for Thracians, Persians, Celts and Macedonian Greeks until it was conquered by the Roman Empire in 45 AD. The Eastern Roman Empire lost some of these territories to an invading Bulgar horde, which founded the first unified Bulgarian state in 681 AD. It dominated most of the Balkans and functioned as a cultural hub for Slavs during the Middle Ages. After numerous exhausting wars and feudal strife, the Second Bulgarian Empire disintegrated in 1396 and its territories fell under Ottoman rule for nearly five centuries. The Russo-Turkish War of 1877–78 resulted in the formation of the current Third Bulgarian State. Many ethnic Bulgarian populations were left outside its borders, which led to several conflicts with its neighbours and an alliance with Germany in both world wars. In 1946 Bulgaria became a one-party socialist state and part of the Soviet-led Eastern Bloc. The ruling Communist Party gave up its monopoly on power after the Revolutions of 1989 and allowed multi-party elections. Bulgaria then transitioned into a democracy and a market-based economy.
+
+Since the adoption of a democratic constitution in 1991, Bulgaria has functioned as a unitary parliamentary republic with a high degree of political, administrative, and economic centralisation. Most commercial and administrative activities are concentrated in its capital and largest city of Sofia. The predominantly urbanised population of seven million people mainly inhabits the primary cities of the 28 provinces. Bulgaria's market economy is part of the European Single Market and is largely based on services, agriculture, and a sizeable industrial sector focused on mining and machine building.
+
+Bulgaria is a member of the European Union, NATO, and the Council of Europe; it is a founding state of the Organization for Security and Co-operation in Europe (OSCE) and has taken a seat at the UN Security Council three times. It is also notable for its biodiversity, its achievements in sports and science, particularly space exploration, and its historical influence on Slavic cultures through its Medieval literary schools and the Cyrillic script. However, it continues to struggle with crippling corruption and a severe demographic decline.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic11.1533483545990">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Burkina_Faso"/>
@@ -468,6 +918,23 @@
 				<resourceData>Burkina Faso</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Burkina Faso is a landlocked country in West Africa. It covers an area of around 274,200 square kilometres (105,900 sq mi) and is surrounded by six countries: Mali to the north; Niger to the east; Benin to the southeast; Togo and Ghana to the south; and Ivory Coast to the southwest. In 2017, its population was estimated at just over 20 million. Burkina Faso is a francophone country, with French as the official language of government and business. Formerly called the Republic of Upper Volta (1958–1984), the country was renamed &#34;Burkina Faso&#34; on 4 August 1984 by then-President Thomas Sankara. Its citizens are known as Burkinabé (/bɜːrˈkiːnəbeɪ/ bur-KEE-nə-beh). Its capital is Ouagadougou.
+
+The northwestern part of present-day Burkina Faso was populated by hunter-gatherers from 14000 BC to 5000 BC. From the 3rd to the 13th centuries AD, the Iron Age Bura culture existed in the territory of present-day southeastern Burkina Faso and southwestern Niger. Various ethnic groups of present-day Burkina Faso, such as the Mossi, Fula and Dyula, arrived in successive waves between the 8th and 15th centuries. From the 11th century, the Mossi people established several separate kingdoms. In the 1890s, during the European Scramble for Africa, the territory of Burkina Faso was invaded by France, and colonial control was established following a war of conquest between 1896 and 1904. The territory was made part of French West Africa in 1904, and the colony of French Upper Volta was established on 1 March 1919. The colony was named for its location on the upper courses of the Volta River (the Black, Red and White Volta).
+
+The Republic of Upper Volta was established on 11 December 1958 as a self-governing colony within the French Community, and on 5 August 1960 it gained full independence, with Maurice Yaméogo as President. After protests by students and labour unions, Yaméogo was deposed in the 1966 coup d'état, led by Sangoulé Lamizana, who became President. His rule coincided with the Sahel drought and famine, and facing problems from the country's traditionally powerful trade unions he was deposed in the 1980 coup d'état, led by Saye Zerbo. Encountering resistance from trade unions again, Zerbo's government was overthrown in the 1982 coup d'état, led by Jean-Baptiste Ouédraogo. The leader of the leftist faction of Ouédraogo's government, Thomas Sankara, became Prime Minister but was later imprisoned. Efforts to free him led to the popularly-supported 1983 coup d'état, in which he became President. Sankara renamed the country Burkina Faso and launched an ambitious socioeconomic programme which included a nationwide literacy campaign, land redistribution to peasants, railway and road construction and the outlawing of female genital mutilation, forced marriages and polygamy. Sankara was overthrown and killed in the 1987 coup d'état led by Blaise Compaoré – deteriorating relations with former coloniser France and its ally the Ivory Coast was the reason given for the coup.
+
+In 1987, Blaise Compaoré became President and, after an alleged 1989 coup attempt, was later elected in 1991 and 1998, elections which were boycotted by the opposition and received a considerably low turnout, as well as in 2005. He remained head of state until he was ousted from power by the popular youth upheaval of 31 October 2014, after which he fled to the Ivory Coast. Michel Kafando subsequently became the transitional President of the country. On 16 September 2015, a military coup d'état against the Kafando government was carried out by the Regiment of Presidential Security, the former presidential guard of Compaoré. On 24 September 2015, after pressure from the African Union, ECOWAS and the armed forces, the military junta agreed to step down, and Michel Kafando was reinstated as Acting President. In the general election held on 29 November 2015, Roch Marc Christian Kaboré won in the first round with 53.5% of the vote and was sworn in as President on 29 December 2015.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic12.1533483581428">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Burundi"/>
@@ -484,6 +951,29 @@
 				<resourceData>Burundi</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Burundi, officially the Republic of Burundi, is a landlocked country in the African Great Lakes region of East Africa, bordered by Rwanda to the north, Tanzania to the east and south, and the Democratic Republic of the Congo to the west. It is also considered part of Central Africa. Burundi's capital is Bujumbura. The southwestern border is adjacent to Lake Tanganyika.
+
+The Twa, Hutu and Tutsi peoples have lived in Burundi for at least 500 years. For more than 200 of those years, Burundi was an independent kingdom, until the beginning of the 20th century, when Germany colonised the region. After the First World War and Germany's defeat, it ceded the territory to Belgium. Both Germans and Belgians ruled Burundi and Rwanda as a European colony known as Ruanda-Urundi. Despite common misconceptions, Burundi and Rwanda had never been under common rule until the time of European colonisation.
+
+Burundi gained independence in 1962 and initially had a monarchy, but a series of assassinations, coups and a general climate of regional instability culminated in the establishment of a republic and one-party state in 1966. Bouts of ethnic cleansing and ultimately two civil wars and genocides during the 1970s and again in the 1990s left the country undeveloped and its population as one of the world's poorest. 2015 witnessed large-scale political strife as President Pierre Nkurunziza opted to run for a third term in office, a coup attempt failed and the country's parliamentary and presidential elections were broadly criticised by members of the international community.
+
+Burundi's political system is that of a presidential representative democratic republic based upon a multi-party state. The President of Burundi is the head of state and head of government. There are currently 21 registered parties in Burundi. On 13 March 1992, Tutsi coup leader Pierre Buyoya established a constitution, which provided for a multi-party political process and reflected multi-party competition. Six years later, on 6 June 1998, the constitution was changed, broadening National Assembly's seats and making provisions for two vice-presidents. Because of the Arusha Accord, Burundi enacted a transitional government in 2000. In October 2016, Burundi informed the UN of its intention to withdraw from the International Criminal Court.
+
+Burundi remains an overwhelmingly rural society, with just 13% of the population living in urban areas in 2013. The population density of around 315 people per square kilometre (753 per sq mi) is the second highest in Sub-Saharan Africa. Roughly 85% of the population are of Hutu ethnic origin, 15% are Tutsi, and fewer than 1% are indigenous Twa. The official languages of Burundi are Kirundi, French and English, Kirundi being recognised officially as the sole national language.
+
+One of the smallest countries in Africa, Burundi has an equatorial climate. Burundi is a part of the Albertine Rift, the western extension of the East African Rift. The country lies on a rolling plateau in the centre of Africa. The highest peak, Mount Heha at 2,685 m (8,810 ft), lies to the southeast of the capital, Bujumbura. The most distant source of the River Nile is the Ruvyironza River in the Bururi Province of Burundi, the Nile is linked from Lake Victoria to its headwaters via the Kagera River to the Ruvyironza River. Another major lake is Lake Tanganyika, located in much of Burundi's southwestern corner. There are two national parks, Kibira National Park to the northwest (a small region of rain forest, adjacent to Nyungwe Forest National Park in Rwanda), and Ruvubu National Park to the northeast (along the Rurubu River, also known as Ruvubu or Ruvuvu). Both were established in 1982 to conserve wildlife populations. Burundi's lands are mostly agricultural or pasture.
+
+Settlement by rural populations has led to deforestation, soil erosion and habitat loss. Deforestation of the entire country is almost completely due to overpopulation, with a mere 600 km2 (230 sq mi) remaining and an ongoing loss of about 9% per annum. In addition to poverty, Burundians often have to deal with corruption, weak infrastructure, poor access to health and education services, and hunger. Burundi is densely populated and has had substantial emigration as young people seek opportunities elsewhere. The World Happiness Report 2018 ranked Burundi as the world's least happy nation with a rank of 156.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic13.1533483605814">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cambodia"/>
@@ -500,6 +990,23 @@
 				<resourceData>Cambodia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Cambodia, officially the Kingdom of Cambodia, is a sovereign state located in the southern portion of the Indochina peninsula in Southeast Asia. It is 181,035 square kilometres (69,898 square miles) in area, bordered by Thailand to the northwest, Laos to the northeast, Vietnam to the east and the Gulf of Thailand to the southwest. Cambodia has a population of over 15 million. The official religion is Theravada Buddhism, practised by approximately 95 percent of the population. The country's minority groups include Vietnamese, Chinese, Chams and 30 hill tribes. The capital and largest city is Phnom Penh, the political, economic and cultural centre of Cambodia. The kingdom is an elective constitutional monarchy with a monarch, currently Norodom Sihamoni, chosen by the Royal Throne Council as head of state. The head of government is the Prime Minister, currently Hun Sen, the longest serving non-royal leader in Southeast Asia, ruling Cambodia since 1985.
+
+In 802 AD, Jayavarman II declared himself king, uniting the warring Khmer princes of Chenla under the name &#34;Kambuja&#34;. This marked the beginning of the Khmer Empire, which flourished for over 600 years, allowing successive kings to control and exert influence over much of Southeast Asia and accumulate immense power and wealth. The Indianised kingdom built more than 5,000 temples and monuments including Angkor Wat, now a World Heritage Site, and facilitated the spread of first Hinduism then Buddhism to much of Southeast Asia. After the fall of Angkor to Ayutthaya in the 15th century, a reduced and weakened Cambodia was then ruled as a vassal state by its neighbours. In 1863, Cambodia became a protectorate of France, which doubled the size of the country by reclaiming the north and west from Thailand.
+
+Cambodia gained independence in 1953. The Vietnam War extended into the country with the US bombing of Cambodia from 1969 until 1973. Following the Cambodian coup of 1970 which installed the right-wing pro-US Khmer Republic, the deposed king gave his support to his former enemies, the Khmer Rouge. The Khmer Rouge emerged as a major power, taking Phnom Penh in 1975 and later carrying out the Cambodian genocide from 1975 until 1979, when they were ousted by Vietnam and the Vietnamese-backed People's Republic of Kampuchea, supported by the Soviet Union in the Cambodian–Vietnamese War (1979–91). Following the 1991 Paris Peace Accords, Cambodia was governed briefly by a United Nations mission (1992–93). The UN withdrew after holding elections in which around 90 percent of the registered voters cast ballots. The 1997 factional fighting resulted in the ousting of the government by Prime Minister Hun Sen and the Cambodian People's Party, who remain in power as of 2018.
+
+Cambodia is a member of the United Nations since 1955, ASEAN, the East Asia Summit, the WTO, the Non-Aligned Movement and La Francophonie. According to several foreign organisations, the country has widespread poverty, pervasive corruption, lack of political freedoms, low human development and a high rate of hunger. Cambodia has been described by Human Rights Watch's Southeast Asian Director, David Roberts, as a &#34;vaguely communist free-market state with a relatively authoritarian coalition ruling over a superficial democracy&#34;. While per capita income remains low compared to most neighbouring countries, Cambodia has one of the fastest growing economies in Asia, with growth averaging 7.6 percent over the last decade. Agriculture remains the dominant economic sector, with strong growth in textiles, construction, garments and tourism leading to increased foreign investment and international trade. The American World Justice Project's 2015 Rule of Law Index ranked Cambodia 76 out of 102 countries, similar to other countries in the region.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic14.1533483634603">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cameroon"/>
@@ -516,6 +1023,23 @@
 				<resourceData>Cameroon</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Cameroon, officially the Republic of Cameroon, is a country in Central Africa. It is bordered by Nigeria to the west and north; Chad to the northeast; the Central African Republic to the east; and Equatorial Guinea, Gabon and the Republic of the Congo to the south. Cameroon's coastline lies on the Bight of Biafra, part of the Gulf of Guinea and the Atlantic Ocean.
+
+French and English are the official languages of Cameroon. The country is often referred to as &#34;Africa in miniature&#34; for its geological and cultural diversity. Natural features include beaches, deserts, mountains, rainforests, and savannas. The highest point at almost 4,100 metres (13,500 ft) is Mount Cameroon in the Southwest Region of the country, and the largest cities in population-terms are Douala on the Wouri river, its economic capital and main seaport, Yaoundé, its political capital, and Garoua. The country is well known for its native styles of music, particularly makossa and bikutsi, and for its successful national football team.
+
+Early inhabitants of the territory included the Sao civilisation around Lake Chad and the Baka hunter-gatherers in the southeastern rainforest. Portuguese explorers reached the coast in the 15th century and named the area Rio dos Camarões (Shrimp River), which became Cameroon in English. Fulani soldiers founded the Adamawa Emirate in the north in the 19th century, and various ethnic groups of the west and northwest established powerful chiefdoms and fondoms. Cameroon became a German colony in 1884 known as Kamerun.
+
+After World War I, the territory was divided between France and the United Kingdom as League of Nations mandates. The Union des Populations du Cameroun (UPC) political party advocated independence, but was outlawed by France in the 1950s, leading to the Cameroonian Independence War fought between French and UPC militant forces until early 1971. In 1960, the French-administered part of Cameroon became independent as the Republic of Cameroun under President Ahmadou Ahidjo. The southern part of British Cameroons federated with it in 1961 to form the Federal Republic of Cameroon. The federation was abandoned in 1972. The country was renamed the United Republic of Cameroon in 1972 and the Republic of Cameroon in 1984. Cameroon experiences relatively high political and social stability. This has permitted the development of agriculture, roads, railways and large petroleum and timber industries. Large numbers of Cameroonians live as subsistence farmers. Since 1982 Paul Biya has been President, governing with his Cameroon People's Democratic Movement party. The country has experienced tensions coming from the English-speaking territories. Politicians in the English-speaking regions have advocated for greater decentralisation and even complete separation or independence (as in the Southern Cameroons National Council) from Cameroon.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic15.1533483657591">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Canada"/>
@@ -532,6 +1056,21 @@
 				<resourceData>Canada</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Canada is a country located in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's southern border with the United States is the world's longest bi-national land border. As a whole, Canada is sparsely populated, the majority of its land area being dominated by forest and tundra. Consequently, its population is highly urbanized, with 82 percent of the 35.15 million people concentrated in large and medium-sized cities, many near the southern border. Its capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. Canada's climate varies widely across its vast area, ranging from arctic weather in the north, to hot summers in the southern regions, with four distinct seasons.
+
+Various indigenous peoples have inhabited what is now Canada for thousands of years prior to European colonization. Beginning in the 16th century, the British and French established colonies, the first being the colony of Canada established by France in 1535. As a consequence of various armed conflicts, British North America gained and lost territory until, by the late 18th century, it controlled most of what comprises Canada today. On July 1, 1867, the colonies of Canada, New Brunswick, and Nova Scotia were federated to form the semi-autonomous federal Dominion named Canada. This began an accretion of provinces and territories to the Dominion to the present ten provinces and three territories forming contemporary Canada. Canada achieved independence gradually beginning with responsible government in the 1830s and culminating with the patriation of the Constitution in 1982. In 1931, Canada achieved near-total independence from the United Kingdom with the Statute of Westminster, except for the power to amend its constitution.
+
+Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II being the head of state. The country is officially bilingual at the federal level. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many other countries. Its advanced economy is the tenth-largest in the world, relying chiefly upon its abundant natural resources and well-developed international trade networks. Canada's long and complex relationship with the United States has had a significant impact on its economy and culture.
+
+Canada is a developed country and has the fifteenth-highest nominal per capita income globally as well as the tenth-highest ranking in the Human Development Index. It ranks among the highest in international measurements of government transparency, civil liberties, quality of life, economic freedom, and education. Canada is a realm within the Commonwealth of Nations, a member of the Francophonie, and part of several major international and intergovernmental institutions or groupings including the United Nations, the North Atlantic Treaty Organization, the G7 (formerly G8), the Group of Ten, the G20, the North American Free Trade Agreement and the Asia-Pacific Economic Cooperation forum.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic16.1533483691522">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cape_Verde"/>
@@ -548,6 +1087,21 @@
 				<resourceData>Cape Verde</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Cape Verde or Cabo Verde, officially the Republic of Cabo Verde, is an island country spanning an archipelago of 10 volcanic islands in the central Atlantic Ocean. It forms part of the Macaronesia ecoregion, along with the Azores, Canary Islands, Madeira, and the Savage Isles. In ancient times these islands were referred to as &#34;the Islands of the Blessed&#34; or the &#34;Fortunate Isles&#34;. Located 570 kilometres (350 mi) west of the Cape Verde Peninsula in West Africa, the islands cover a combined area of slightly over 4,000 square kilometres (1,500 sq mi).
+
+The Cape Verde archipelago was uninhabited until the 15th century, when Portuguese explorers discovered and colonized the islands, establishing the first European settlement in the tropics. Ideally located for the Atlantic slave trade, the islands grew prosperous throughout the 16th and 17th centuries, attracting merchants, privateers, and pirates. The end of slavery in the 19th century led to economic decline and emigration. Cape Verde gradually recovered as an important commercial center and stopover for shipping routes. Incorporated as an overseas department of Portugal in 1951, the islands continued to campaign for independence, which was peacefully achieved in 1975.
+
+Since the early 1990s, Cape Verde has been a stable representative democracy, and remains one of the most developed and democratic countries in Africa. Lacking natural resources, its developing economy is mostly service-oriented, with a growing focus on tourism and foreign investment. Its population of around 540,000 is mostly of mixed European, Moorish, Arab and African heritage, and predominantly Roman Catholic, reflecting the legacy of Portuguese rule. A sizeable diaspora community exists across the world, slightly outnumbering inhabitants on the islands.
+
+Historically, the name &#34;Cape Verde&#34; has been used in English for the archipelago and, since independence in 1975, for the country. In 2013, the Cape Verdean government determined that the Portuguese designation Cabo Verde would henceforth be used for official purposes, such as at the United Nations, even in English contexts. Cape Verde is a member of the African Union.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic17.1533483715830">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Central_African_Republic"/>
@@ -564,6 +1118,21 @@
 				<resourceData>Central African Republic</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Central African Republic, or Centrafrique is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the east, the Democratic Republic of the Congo to the south, the Republic of the Congo to the southwest and Cameroon to the west. The CAR covers a land area of about 620,000 square kilometres (240,000 sq mi) and had an estimated population of around 4.6 million as of 2016.
+
+Most of the CAR consists of Sudano-Guinean savannas, but the country also includes a Sahelo-Sudanian zone in the north and an equatorial forest zone in the south. Two thirds of the country is within the Ubangi River basin (which flows into the Congo), while the remaining third lies in the basin of the Chari, which flows into Lake Chad.
+
+What is today the Central African Republic has been inhabited for millennia; however, the country's current borders were established by France, which ruled the country as a colony starting in the late 19th century. After gaining independence from France in 1960, the Central African Republic was ruled by a series of autocratic leaders, including an abortive attempt at a monarchy; by the 1990s, calls for democracy led to the first multi-party democratic elections in 1993. Ange-Félix Patassé became president, but was later removed by General François Bozizé in the 2003 coup. The Central African Republic Bush War began in 2004 and, despite a peace treaty in 2007 and another in 2011, fighting broke out between various factions in December 2012, leading to ethnic and religious cleansing of the Muslim minority and massive population displacement in 2013 and 2014.
+
+Despite its significant mineral deposits and other resources, such as uranium reserves, crude oil, gold, diamonds, cobalt, lumber, and hydropower, as well as significant quantities of arable land, the Central African Republic is among the ten poorest countries in the world, with the lowest GDP per capita at purchasing power parity in the world as of 2017. As of 2015, according to the Human Development Index (HDI), the country had the lowest level of human development, ranking 188th out of 188 countries. It is also estimated to be the unhealthiest country as well as the worst country in which to be young. The Central African Republic is a member of the United Nations, the African Union, the Economic Community of Central African States, the Organisation internationale de la Francophonie and the Non-Aligned Movement.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic18.1533483748472">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Chad"/>
@@ -580,6 +1149,23 @@
 				<resourceData>Chad</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Chad, officially the Republic of Chad, is a landlocked country in Central Africa. It is bordered by Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon and Nigeria to the southwest, and Niger to the west. It is the fifth largest country in Africa and the second-largest in Central Africa in terms of area.
+
+Chad has several regions: a desert zone in the north, an arid Sahelian belt in the centre and a more fertile Sudanian Savanna zone in the south. Lake Chad, after which the country is named, is the largest wetland in Chad and the second-largest in Africa. The capital N'Djamena is the largest city.
+
+Chad's official languages are Arabic and French. Chad is home to over 200 different ethnic and linguistic groups. The most popular religion of Chad is Islam (at 55%), followed by Christianity (at 40%).
+
+Beginning in the 7th millennium BC, human populations moved into the Chadian basin in great numbers. By the end of the 1st millennium AD, a series of states and empires had risen and fallen in Chad's Sahelian strip, each focused on controlling the trans-Saharan trade routes that passed through the region. France conquered the territory by 1920 and incorporated it as part of French Equatorial Africa. In 1960, Chad obtained independence under the leadership of François Tombalbaye. Resentment towards his policies in the Muslim north culminated in the eruption of a long-lasting civil war in 1965. In 1979 the rebels conquered the capital and put an end to the south's hegemony. However, the rebel commanders fought amongst themselves until Hissène Habré defeated his rivals. He was overthrown in 1990 by his general Idriss Déby. Since 2003 the Darfur crisis in Sudan has spilt over the border and destabilised the nation, with hundreds of thousands of Sudanese refugees living in and around camps in eastern Chad. An uneven inclusion into the global political economy as a site for colonial resource extraction (primarily cotton and crude oil), a global economic system that does not promote nor encourage the development of Chadian industrialization, and the failure to support local agricultural production has meant that the majority of Chadians live in daily uncertainty and hunger.
+
+While many political parties are active, power lies firmly in the hands of President Déby and his political party, the Patriotic Salvation Movement. Chad remains plagued by political violence and recurrent attempted coups d'état. Since 2003 crude oil has become the country's primary source of export earnings, superseding the traditional cotton industry.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic19.1533484234082">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Chile"/>
@@ -596,6 +1182,22 @@
 				<resourceData>Chile</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Chile, officially the Republic of Chile, is a South American country occupying a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. It borders Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chilean territory includes the Pacific islands of Juan Fernández, Salas y Gómez, Desventuradas, and Easter Island in Oceania. Chile also claims about 1,250,000 square kilometres (480,000 sq mi) of Antarctica, although all claims are suspended under the Antarctic Treaty.
+
+The arid Atacama Desert in northern Chile contains great mineral wealth, principally copper. The relatively small central area dominates in terms of population and agricultural resources, and is the cultural and political center from which Chile expanded in the late 19th century when it incorporated its northern and southern regions. Southern Chile is rich in forests and grazing lands, and features a string of volcanoes and lakes. The southern coast is a labyrinth of fjords, inlets, canals, twisting peninsulas, and islands.
+
+Spain conquered and colonized the region in the mid-16th century, replacing Inca rule in the north and centre, but failing to conquer the independent Mapuche who inhabited what is now south-central Chile. After declaring its independence from Spain in 1818, Chile emerged in the 1830s as a relatively stable authoritarian republic. In the 19th century, Chile saw significant economic and territorial growth, ending Mapuche resistance in the 1880s and gaining its current northern territory in the War of the Pacific (1879–83) after defeating Peru and Bolivia. In the 1960s and 1970s the country experienced severe left-right political polarization and turmoil. This development culminated with the 1973 Chilean coup d'état that overthrew Salvador Allende's democratically elected left-wing government and instituted a 16-year-long right-wing military dictatorship that left more than 3,000 people dead or missing. The regime, headed by Augusto Pinochet, ended in 1990 after it lost a referendum in 1988 and was succeeded by a center-left coalition which ruled through four presidencies until 2010.
+
+Chile is today one of South America's most economically and socially stable and prosperous nations, with a high-income economy and high living standards. It leads Latin American nations in rankings of human development, competitiveness, income per capita, globalization, state of peace, economic freedom, and low perception of corruption. It also ranks high regionally in sustainability of the state, and democratic development. Chile is a member of the Organization for Economic Co-operation and Development (OECD), joining in 2010. Currently it also has the lowest homicide rate in South America. Chile is a founding member of the United Nations, the Union of South American Nations (UNASUR) and the Community of Latin American and Caribbean States (CELAC).
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic20.1533484258789">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/China"/>
@@ -612,6 +1214,21 @@
 				<resourceData>China</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous country, with a population of around 1.404 billion. Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third- or fourth-largest country by total area,[k] depending on the source consulted. Governed by the Communist Party of China, the state exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+
+China emerged as one of the world's earliest civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-legendary Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin unified core China and established the first Chinese dynasty. The succeeding Han dynasty, which ruled from 206 BC until 220 AD, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and printing in the Tang dynasty (618–907) completed the Four Great Inventions. Tang culture spread widely in Asia, as the new maritime Silk Route brought traders to as far as Mesopotamia and Horn of Africa. Dynastic rule ended in 1912 with the Xinhai Revolution, when a republic replaced the Qing dynasty. The Chinese Civil War resulted in a division of territory in 1949, when the Communist Party of China established the People’s Republic of China on Mainland China, while the Kuomintang-led government retreated to the island of Taiwan. The political status of Taiwan and the ROC remains disputed.
+
+Since the introduction of economic reforms in 1978, China's economy has been one of the world's fastest-growing with annual growth rates consistently above 6 percent. As of 2016, it is the world's second-largest economy by nominal GDP and largest by purchasing power parity (PPP). China is also the world's largest exporter and second-largest importer of goods. China is a recognized nuclear weapons state and has the world's largest standing army and second-largest defense budget. The PRC is a permanent member of the United Nations Security Council as it replaced the ROC in 1971, as well as an active global partner of ASEAN Plus mechanism. China is also a leading member of numerous formal and informal multilateral organizations, including the Shanghai Cooperation Organization (SCO), WTO, APEC, BRICS, the BCIM, and the G20. China is a great power and a major regional power within Asia, and has been characterized as a potential superpower.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic21.1533484304220">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Colombia"/>
@@ -628,6 +1245,19 @@
 				<resourceData>Colombia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Colombia, officially the Republic of Colombia, is a sovereign state largely situated in the northwest of South America, with territories in Central America. Colombia shares a border to the northwest with Panama, to the east with Venezuela and Brazil and to the south with Ecuador and Peru. It shares its maritime limits with Costa Rica, Nicaragua, Honduras, Jamaica, Haiti and the Dominican Republic. It is a unitary, constitutional republic comprising thirty-two departments. The territory of what is now Colombia was originally inhabited by indigenous peoples, including the Muisca, Quimbaya, and the Tairona.
+
+The Spanish set foot on Colombian soil for the first time in 1499 and in the first half of the 16th century initiated a period of conquest and colonization, ultimately creating the New Kingdom of Granada, with Santafé de Bogotá as its capital. Independence from Spain was acquired in 1819, but by 1830 the &#34;Gran Colombia&#34; Federation was dissolved. What is now Colombia and Panama emerged as the Republic of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903. Since the 1960s, the country has suffered from an asymmetric low-intensity armed conflict, which escalated in the 1990s but then decreased from 2005 onward. Colombia is one of the most ethnically and linguistically diverse countries in the world, and thereby possesses a rich cultural heritage. The urban centres are mostly located in the highlands of the Andes mountains.
+
+Colombian territory also encompasses Amazon rainforest, tropical grassland and both Caribbean and Pacific coastlines. Ecologically, it is one of the world's 17 megadiverse countries, and the most densely biodiverse of these per square kilometer. Colombia is a middle power and a regional actor with the fourth-largest economy in Latin America, is part of the CIVETS group of six leading emerging markets and is a member of the UN, the WTO, the OECD, the OAS, the Pacific Alliance, and other international organizations. Colombia has a diversified economy with macroeconomic stability and favorable growth prospects in the long run.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic22.1533484338681">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Comoros"/>
@@ -644,6 +1274,21 @@
 				<resourceData>Comoros</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Comoros, officially the Union of the Comoros, is a sovereign archipelago island nation in the Indian Ocean located at the northern end of the Mozambique Channel off the eastern coast of Africa between northeastern Mozambique and northwestern Madagascar. The capital and largest city in Comoros is Moroni. The religion of the majority of the population is Sunni Islam.
+
+At 1,660 km2 (640 sq mi), excluding the contested island of Mayotte, the Comoros is the third-smallest African nation by area. The population, excluding Mayotte, is estimated at 795,601. As a nation formed at a crossroads of different civilisations, the archipelago is noted for its diverse culture and history. The archipelago was first inhabited by Bantu speakers who came from East Africa, supplemented by Arab and Austronesian immigration.
+
+The country consists of three major islands and numerous smaller islands, all in the volcanic Comoro Islands. The major islands are commonly known by their French names: northwestern-most Grande Comore (Ngazidja); Mohéli (Mwali); and Anjouan (Nzwani). In addition, the country has a claim on a fourth major island, southeastern-most Mayotte (Maore), though Mayotte voted against independence from France in 1974, has never been administered by an independent Comoros government, and continues to be administered by France (currently as an overseas department). France has vetoed United Nations Security Council resolutions that would affirm Comorian sovereignty over the island. In addition, Mayotte became an overseas department and a region of France in 2011 following a referendum passed overwhelmingly.
+
+It became part of the French colonial empire in the 19th century before becoming independent in 1975. Since declaring independence, the country has experienced more than 20 coups d'état or attempted coups, with various heads of state assassinated. Along with this constant political instability, the population of the Comoros lives with the worst income inequality of any nation, with a Gini coefficient over 60%, while also ranking in the worst quartile on the Human Development Index. As of 2008 about half the population lived below the international poverty line of US$1.25 a day. The Comoros is a member state of the African Union, Francophonie, Organisation of Islamic Cooperation, Arab League (of which it is the southernmost state, being the only member state of the Arab League with a tropical climate and also entirely within the Southern Hemisphere) and the Indian Ocean Commission. Other countries near the Comoros are Tanzania to the northwest and the Seychelles to the northeast. Its capital is Moroni, on Grande Comore. The Union of the Comoros has three official languages—Comorian, Arabic and French.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic23.1533484381477">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"/>
@@ -660,6 +1305,23 @@
 				<resourceData>Congo, Democratic Republic of the</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Democratic Republic of the Congo, also known as DR Congo, the DRC, Congo-Kinshasa or simply the Congo, is a country located in Central Africa. It is sometimes referred to by its former name of Zaire, which was its official name between 1971 and 1997. The DRC borders the Central African Republic and South Sudan to the north; Uganda, Rwanda, Burundi and Tanzania to the east; Zambia to the south; Angola to the southwest; and the Republic of the Congo and the Atlantic Ocean to the west. It is the second-largest country in Africa after Algeria, (the largest in Sub-Saharan Africa) by area and the 11th-largest in the world. With a population of over 78 million, the Democratic Republic of the Congo is the most populated officially Francophone country, the fourth-most-populated country in Africa and the 16th-most-populated country in the world.
+
+Centred on the Congo Basin, the territory of the DRC was first inhabited by Central African foragers around 90,000 years ago and was reached by the Bantu expansion about 3,000 years ago. In the west, the Bantu Kingdom of Kongo ruled around the mouth of the Congo River from the 14th to 19th centuries. In the centre and east, the kingdoms of Luba and Lunda ruled from the 16th and 17th centuries to the 19th century. In the 1870s, just before the onset of the Scramble for Africa, European exploration of the Congo Basin was carried out, first led by Henry Morton Stanley under the sponsorship of King Leopold II of Belgium. Leopold formally acquired rights to the Congo territory at the Berlin Conference in 1885 and made the land his private property, naming it the Congo Free State. During the Free State, the colonial military unit, the Force Publique, forced the local population to produce rubber, and from 1885 to 1908 millions of Congolese died as a consequence of disease and exploitation. In 1908, Belgium, despite initial reluctance, formally annexed the Free State, which became the Belgian Congo.
+
+The Belgian Congo achieved independence on 30 June 1960 under the name Republic of the Congo. Congolese nationalist Patrice Lumumba was elected the first Prime Minister, while Joseph Kasa-Vubu became the first President. Conflict arose over the administration of the territory, which became known as the Congo Crisis. The provinces of Katanga, under Moïse Tshombe, and South Kasai attempted to secede. After Lumumba turned to the Soviet Union for assistance in the crisis, the U.S. and Belgium became wary and oversaw his removal from office by Kasa-Vubu on 5 September and ultimate execution by Belgian-led Katangese troops on 17 January 1961. On 25 November 1965, Army Chief of Staff Joseph-Désiré Mobutu, who later renamed himself Mobutu Sese Seko, officially came into power through a coup d'état. In 1971, he renamed the country Zaire. The country was run as a dictatorial one-party state, with his Popular Movement of the Revolution as the sole legal party. Mobutu's government received considerable support from the United States, due to its anti-communist stance during the Cold War. By the early 1990s, Mobutu's government began to weaken. Destabilisation in the east resulting from the 1994 Rwandan genocide and disenfranchisement among the eastern Banyamulenge (Congolese Tutsi) population led to a 1996 invasion led by Tutsi FPR-ruled Rwanda, which began the First Congo War.
+
+On 17 May 1997, Laurent-Désiré Kabila, a leader of Tutsi forces from the province of South Kivu, became President after Mobutu fled to Morocco, reverting the country's name to the Democratic Republic of the Congo. Tensions between President Kabila and the Rwandan and Tutsi presence in the country led to the Second Congo War from 1998 to 2003. Ultimately, nine African countries and around twenty armed groups became involved in the war, which resulted in the deaths of 5.4 million people. The two wars devastated the country. President Laurent-Désiré Kabila was assassinated by one of his bodyguards on 16 January 2001 and was succeeded eight days later as President by his son Joseph.
+
+The Democratic Republic of the Congo is extremely rich in natural resources but has had political instability, a lack of infrastructure, issues with corruption and centuries of both commercial and colonial extraction and exploitation with little holistic development. Besides the capital Kinshasa, the two next largest cities Lubumbashi and Mbuji-Mayi are both mining communities. DR Congo's largest export is raw minerals, with China accepting over 50% of DRC's exports in 2012. In 2016, DR Congo's level of human development was ranked 176th out of 187 countries by the Human Development Index. As of 2018, around 600,000 Congolese have fled to neighbouring countries from conflicts in the centre and east of the DRC. Two million children risk starvation, and the fighting has displaced 4.5 million people.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic24.1533484408522">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Republic_of_the_Congo"/>
@@ -676,6 +1338,19 @@
 				<resourceData>Congo, Republic of the</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Republic of the Congo, also known as the Congo-Brazzaville, the Congo Republic or simply the Congo, is a country in Central Africa. It is bordered by five countries: Gabon and the Atlantic Ocean to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest.
+
+The region was dominated by Bantu-speaking tribes at least 3,000 years ago, who built trade links leading into the Congo River basin. Congo-Brazzaville was formerly part of the French colony of Equatorial Africa. Upon independence in 1960, the former colony of French Congo became the Republic of the Congo. In 1970, the People's Republic of the Congo was established as a Marxist–Leninist one-party state; this lasted until 1991. Multi-party elections have been held since 1992, although a democratically elected government was ousted in the 1997 Republic of the Congo Civil War, and President Denis Sassou Nguesso, who first came to power in 1979, has ruled for 33 of the past 38 years.
+
+The Republic of the Congo has become the fourth-largest oil producer in the Gulf of Guinea, providing the country with a degree of prosperity despite instability in some areas and unequal distribution of oil revenue nationwide. Congo's economy is heavily dependent on the oil sector, and economic growth has slowed considerably since the post-2015 drop in oil prices.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic25.1533484442543">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cook_Islands"/>
@@ -692,6 +1367,21 @@
 				<resourceData>Cook Islands</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Cook Islands is a self-governing island country in the South Pacific Ocean in free association with New Zealand. It comprises 15 islands whose total land area is 240 square kilometres (92.7 sq mi). The Cook Islands' Exclusive Economic Zone (EEZ) covers 1,800,000 square kilometres (690,000 sq mi) of ocean.
+
+New Zealand is responsible for the Cook Islands' defence and foreign affairs, but they are exercised in consultation with the Cook Islands. In recent times, the Cook Islands have adopted an increasingly independent foreign policy. Although Cook Islanders are citizens of New Zealand, they have the status of Cook Islands nationals, which is not given to other New Zealand citizens.
+
+The Cook Islands' main population centres are on the island of Rarotonga (10,572 in 2011), where there is an international airport. There is a larger population of Cook Islanders in New Zealand itself; in the 2013 census, 61,839 people said they were Cook Islanders.
+
+With about 100,000 visitors travelling to the islands in the 2010–11 financial year, tourism is the country's main industry, and the leading element of the economy, ahead of offshore banking, pearls, and marine and fruit exports.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic26.1533484475396">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Costa_Rica"/>
@@ -708,6 +1398,25 @@
 				<resourceData>Costa Rica</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Costa Rica, officially the Republic of Costa Rica, is a country in Central America, bordered by Nicaragua to the north, Panama to the southeast, the Pacific Ocean to the west, the Caribbean Sea to the east, and Ecuador to the south of Cocos Island. It has a population of around 4.9 million, in a land area of 51,060 square kilometers (19,714 square miles); over 300,000 live in the capital and largest city, San José, which had a population of an estimated 333,980 in 2015.
+
+Costa Rica has been known for its stable democracy, in a region that has had some instability, and for its highly educated workforce, most of whom speak English. The country spends roughly 6.9% of its budget (2016) on education, compared to a global average of 4.4%. Its economy, once heavily dependent on agriculture, has diversified to include sectors such as finance, corporate services for foreign companies, pharmaceuticals, and ecotourism. Many foreign companies (manufacturing and services) operate in Costa Rica's Free Trade Zones (FTZ) where they benefit from investment and tax incentives.
+
+In spite of impressive growth in the gross domestic product (GDP), low inflation, moderate interest rates and an acceptable unemployment level, Costa Rica in 2017 was facing a liquidity crisis due to a growing debt and budget deficit. By August 2017, the Treasury was having difficulty paying its obligations. Other challenges facing the country in its attempts to improve the economy by increasing foreign investment include a poor infrastructure and a need to improve public sector efficiency.
+
+Costa Rica was sparsely inhabited by indigenous peoples before coming under Spanish rule in the 16th century. It remained a peripheral colony of the empire until independence as part of the short-lived First Mexican Empire, followed by membership in the United Provinces of Central America, from which it formally declared independence in 1847. Since then, Costa Rica has remained among the most stable, prosperous, and progressive nations in Latin America. Following the brief Costa Rican Civil War, it permanently abolished its army in 1949, becoming one of only a few sovereign nations without a standing army.
+
+The country has consistently performed favorably in the Human Development Index (HDI), placing 69th in the world as of 2015, among the highest of any Latin American nation. It has also been cited by the United Nations Development Programme (UNDP) as having attained much higher human development than other countries at the same income levels, with a better record on human development and inequality than the median of the region.
+
+Costa Rica also has progressive environmental policies. It is the only country to meet all five UNDP criteria established to measure environmental sustainability. It was ranked 42nd in the world, and third in the Americas, in the 2016 Environmental Performance Index, and was twice ranked the best performing country in the New Economics Foundation's (NEF) Happy Planet Index, which measures environmental sustainability, and was identified by the NEF as the greenest country in the world in 2009. Costa Rica plans to become a carbon-neutral country by 2021. By 2016, 98.1% of its electricity was generated from green sources particularly hydro, solar, geothermal and biomass.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic27.1533484518569">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Croatia"/>
@@ -724,6 +1433,23 @@
 				<resourceData>Croatia</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Croatia, officially the Republic of Croatia is a country at the crossroads of Central and Southeast Europe, on the Adriatic Sea. Its capital Zagreb forms one of the country's primary subdivisions, along with twenty counties. Croatia has an area of 56,594 square kilometres (21,851 square miles) and a population of 4.28 million, most of whom are Roman Catholics.
+
+The Croats arrived in the area in the 6th century and organised the territory into two duchies by the 9th century. Tomislav became the first king by 925, elevating Croatia to the status of a kingdom, which retained its sovereignty for nearly two centuries, reaching its peak during the rule of kings Petar Krešimir IV and Dmitar Zvonimir. Croatia entered a personal union with Hungary in 1102. In 1527, faced with Ottoman conquest, the Croatian Parliament elected Ferdinand I of Habsburg to the Croatian throne. In October 1918, in the final days of World War I, the State of Slovenes, Croats and Serbs, independent from Austria-Hungary, was proclaimed in Zagreb, and in December 1918 it was merged into the Kingdom of Serbs, Croats and Slovenes. Following the Axis invasion of Yugoslavia in April 1941, most of the Croatian territory was incorporated into the Nazi-backed client-state which led to the development of a resistance movement and the creation of the Federal State of Croatia which after the war become a founding member and a federal constituent of the Socialist Federal Republic of Yugoslavia. On 25 June 1991, Croatia declared independence, which came wholly into effect on 8 October of the same year. The Croatian War of Independence was fought successfully for four years following the declaration.
+
+Croatia is a republic governed under a parliamentary system and a developed country with a very high standard of living. It is a member of the European Union (EU), the United Nations (UN), the Council of Europe, NATO, the World Trade Organization (WTO), and a founding member of the Union for the Mediterranean. As an active participant in the UN peacekeeping forces, Croatia has contributed troops to the NATO-led mission in Afghanistan and took a non-permanent seat on the UN Security Council for the 2008–2009 term. Since 2000, the Croatian government has constantly invested in infrastructure, especially transport routes and facilities along the Pan-European corridors.
+
+Croatia's economy is dominated by service and industrial sectors and agriculture. Tourism is a significant source of revenue, with Croatia ranked among top 20 most popular tourist destinations in the world. The state controls a part of the economy, with substantial government expenditure. The European Union is Croatia's most important trading partner. Croatia provides a social security, universal health care system, and a tuition-free primary and secondary education, while supporting culture through numerous public institutions and corporate investments in media and publishing.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic28.1533484541996">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cuba"/>
@@ -740,6 +1466,23 @@
 				<resourceData>Cuba</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba as well as Isla de la Juventud and several minor archipelagos. Cuba is located in the northern Caribbean where the Caribbean Sea, Gulf of Mexico and Atlantic Ocean meet. It is south of both the U.S. state of Florida and the Bahamas, west of Haiti and north of Jamaica. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The island of Cuba is the largest island in the Caribbean, with an area of 109,884 square kilometres (42,426 sq mi), and the second-most populous after Hispaniola, with over 11 million inhabitants.
+
+The territory that is now Cuba was inhabited by the Ciboney Taíno people from the 4th millennium BC until Spanish colonisation in the 15th century. From the 15th century, it was a colony of Spain until the Spanish–American War of 1898, when Cuba was occupied by the United States and gained nominal independence as a de facto United States protectorate in 1902. As a fragile republic, in 1940 Cuba attempted to strengthen its democratic system, but mounting political radicalization and social strife culminated in the dictatorship of Fulgencio Batista in 1952. Further unrest and instability led to Batista's ousting in January 1959 by the 26th of July Movement, which afterwards established communist rule under the leadership of Fidel Castro. Since 1965, the state has been governed by the Communist Party of Cuba. The country was a point of contention during the Cold War between the Soviet Union and the United States, and a nuclear war nearly broke out during the Cuban Missile Crisis of 1962. Cuba is one of the few remaining Marxist–Leninist socialist states, where the role of the vanguard Communist Party is enshrined in the Constitution. Independent observers have accused the Cuban government of numerous human rights abuses, including arbitrary imprisonment.
+
+Culturally, Cuba is considered part of Latin America. It is a multiethnic country whose people, culture and customs derive from diverse origins, including the aboriginal Taíno and Ciboney peoples, the long period of Spanish colonialism, the introduction of African slaves and a close relationship with the Soviet Union in the Cold War.
+
+Cuba is a founding member of the United Nations, the G77, the Non-Aligned Movement, the African, Caribbean and Pacific Group of States, ALBA and Organization of American States. The country has currently one of the world's only planned economies, and its economy is dominated by the exports of sugar, tobacco, coffee and skilled labor. According to the Human Development Index, Cuba has high human development and is ranked the eighth highest in North America, though 67th in the world. It also ranks highly in some metrics of national performance, including health care and education.
+
+</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic29.1533484570057">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Cyprus"/>
@@ -756,6 +1499,23 @@
 				<resourceData>Cyprus</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Cyprus, officially the Republic of Cyprus, is an island country in the Eastern Mediterranean and the third largest and third most populous island in the Mediterranean. Cyprus is located in Western Asia, south of Turkey, west of Syria and Lebanon, northwest of Israel, north of Egypt, and southeast of Greece.
+
+The earliest known human activity on the island dates to around the 10th millennium BC. Archaeological remains from this period include the well-preserved Neolithic village of Khirokitia, and Cyprus is home to some of the oldest water wells in the world. Cyprus was settled by Mycenaean Greeks in two waves in the 2nd millennium BC. As a strategic location in the Middle East, it was subsequently occupied by several major powers, including the empires of the Assyrians, Egyptians and Persians, from whom the island was seized in 333 BC by Alexander the Great. Subsequent rule by Ptolemaic Egypt, the Classical and Eastern Roman Empire, Arab caliphates for a short period, the French Lusignan dynasty and the Venetians, was followed by over three centuries of Ottoman rule between 1571 and 1878 (de jure until 1914).
+
+Cyprus was placed under British administration based on the Cyprus Convention in 1878 and was formally annexed by Britain in 1914. While Turkish Cypriots made up 18% of the population, the partition of Cyprus and creation of a Turkish state in the north became a policy of Turkish Cypriot leaders and Turkey in the 1950s. Turkish leaders for a period advocated the annexation of Cyprus to Turkey as Cyprus was considered an &#34;extension of Anatolia&#34; by them; while, since the 19th century, the majority Greek Cypriot population and its Orthodox church had been pursuing union with Greece, which became a Greek national policy in the 1950s. Following nationalist violence in the 1950s, Cyprus was granted independence in 1960. In 1963, the 11-year intercommunal violence between Greek Cypriots and Turkish Cypriots started, which displaced more than 25,000 Turkish Cypriots and brought the end of Turkish Cypriot representation in the republic. On 15 July 1974, a coup d'état was staged by Greek Cypriot nationalists and elements of the Greek military junta in an attempt at enosis, the incorporation of Cyprus into Greece. This action precipitated the Turkish invasion of Cyprus on 20 July, which led to the capture of the present-day territory of Northern Cyprus in the following month, after a ceasefire collapsed, and the displacement of over 150,000 Greek Cypriots and 50,000 Turkish Cypriots. A separate Turkish Cypriot state in the north was established by unilateral declaration in 1983; the move was widely condemned by the international community, with Turkey alone recognizing the new state. These events and the resulting political situation are matters of a continuing dispute.
+
+The Republic of Cyprus has de jure sovereignty over the entire island, including its territorial waters and exclusive economic zone, with the exception of the Sovereign Base Areas of Akrotiri and Dhekelia, which remain under British control according to the London and Zürich Agreements. However, the Republic of Cyprus is de facto partitioned into two main parts: the area under the effective control of the Republic, located in the south and west, and comprising about 59% of the island's area; and the north, administered by the self-declared Turkish Republic of Northern Cyprus, covering about 36% of the island's area. Another nearly 4% of the island's area is covered by the UN buffer zone. The international community considers the northern part of the island as territory of the Republic of Cyprus occupied by Turkish forces. The occupation is viewed as illegal under international law, amounting to illegal occupation of EU territory since Cyprus became a member of the European Union.
+
+Cyprus is a major tourist destination in the Mediterranean. With an advanced, high-income economy and a very high Human Development Index, the Republic of Cyprus has been a member of the Commonwealth since 1961 and was a founding member of the Non-Aligned Movement until it joined the European Union on 1 May 2004. On 1 January 2008, the Republic of Cyprus joined the eurozone.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic30.1533484597451">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Czech_Republic"/>
@@ -772,6 +1532,23 @@
 				<resourceData>Czech Republic</resourceData>
 			</variant>
 		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>The Czech Republic, known alternately by its short-form name, Czechia, is a landlocked country in Central Europe bordered by Germany to the west, Austria to the south, Slovakia to the east and Poland to the northeast. The Czech Republic covers an area of 78,866 square kilometres (30,450 sq mi) with a mostly temperate continental climate and oceanic climate. It is a unitary parliamentary republic, with 10.6 million inhabitants; its capital and largest city is Prague, with 1.3 million residents. Other major cities are Brno, Ostrava and Pilsen. The Czech Republic is a member of the European Union (EU), NATO, the OECD, the United Nations, the OSCE, and the Council of Europe.
+
+It is a developed country with an advanced, high income export-oriented social market economy based in services, manufacturing and innovation. The UNDP ranks the country 14th in inequality-adjusted human development. The Czech Republic is a welfare state with a &#34;continental&#34; European social model, a universal health care system and tuition-free university education. It ranks as the 6th safest or most peaceful country and is one of the most non-religious countries in the world, while achieving strong performance in democratic governance.
+
+The Czech Republic includes the historical territories of Bohemia, Moravia, and Czech Silesia. The Czech state was formed in the late 9th century as the Duchy of Bohemia under the Great Moravian Empire. After the fall of the Empire in 907, the centre of power transferred from Moravia to Bohemia under the Přemyslid dynasty. In 1002, the duchy was formally recognized as part of the Holy Roman Empire, becoming the Kingdom of Bohemia in 1198 and reaching its greatest territorial extent in the 14th century. Besides Bohemia itself, the king of Bohemia ruled the lands of the Bohemian Crown, he had a vote in the election of the Holy Roman Emperor, and Prague was the imperial seat in periods between the 14th and 17th century. In the Hussite Wars of the 15th century driven by the Protestant Bohemian Reformation, the kingdom faced economic embargoes and defeated five consecutive crusades proclaimed by the leaders of the Catholic Church.
+
+Following the Battle of Mohács in 1526, the whole Crown of Bohemia was gradually integrated into the Habsburg Monarchy alongside the Archduchy of Austria and the Kingdom of Hungary. The Protestant Bohemian Revolt (1618–20) against the Catholic Habsburgs led to the Thirty Years' War. After the Battle of the White Mountain, the Habsburgs consolidated their rule, eradicated Protestantism and reimposed Catholicism, and also adopted a policy of gradual Germanization. This contributed to the anti-Habsburg sentiment. A long history of resentment of the Catholic Church followed and still continues. With the dissolution of the Holy Roman Empire in 1806, the Bohemian Kingdom became part of the Austrian Empire and the Czech language experienced a revival as a consequence of widespread romantic nationalism. In the 19th century, the Czech lands became the industrial powerhouse of the monarchy and were subsequently the core of the Republic of Czechoslovakia, which was formed in 1918 following the collapse of the Austro-Hungarian Empire after World War I.
+
+Czechoslovakia remained the only democracy in this part of Europe in the interwar period. However, the Czech part of Czechoslovakia was occupied by Germany in World War II, while the Slovak region became the Slovak Republic; Czechoslovakia was liberated in 1945 by the armies of the Soviet Union and the United States. The Czech country lost the majority of its German-speaking inhabitants after they were expelled following the war. The Communist Party of Czechoslovakia won the 1946 elections and after the 1948 coup d'état, Czechoslovakia became a one-party communist state under Soviet influence. In 1968, increasing dissatisfaction with the regime culminated in a reform movement known as the Prague Spring, which ended in a Soviet-led invasion. Czechoslovakia remained occupied until the 1989 Velvet Revolution, when the communist regime collapsed and market economy was reintroduced. On 1 January 1993, Czechoslovakia peacefully dissolved, with its constituent states becoming the independent states of the Czech Republic and Slovakia. The Czech Republic joined NATO in 1999 and the EU in 2004.</resourceData>
+		</occurrence>
 	</topic>
 	<topic id="topic31.1533484630593">
 		<subjectIdentifier href="https://en.wikipedia.org/wiki/Denmark"/>
@@ -3301,12 +4078,6 @@
 			</variant>
 		</name>
 	</topic>
-	<topic id="topic189.1533492921665">
-		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#display"/>
-	</topic>
-	<topic id="topic190.1533492921665">
-		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#en"/>
-	</topic>
 	<topic id="topic191.1533492921666">
 		<subjectIdentifier href="http://wandora.org/si/core/lang-independent"/>
 	</topic>
@@ -3324,5 +4095,40 @@
 	</topic>
 	<topic id="topic196.1533492921666">
 		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#fi"/>
+	</topic>
+	<topic id="topic0.1533569598987">
+		<subjectIdentifier href="http://wandora.org/si/temp/1533569598990-0"/>
+		<instanceOf>
+			<topicRef href="#topic1.1533369962677"/>
+		</instanceOf>
+		<name>
+			<value>Description</value>
+		</name>
+	</topic>
+	<topic id="topic1.1533569860646">
+		<subjectIdentifier href="https://en.wikipedia.org/wiki/Afghanistan"/>
+		<instanceOf>
+			<topicRef href="#topic0.1533369962675"/>
+		</instanceOf>
+		<name>
+			<value>Afganistan</value>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic0.1533569598987"/>
+			</type>
+			<scope>
+				<topicRef href="#topic190.1533492921665"/>
+			</scope>
+			<resourceData>Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country located within South Asia and Central Asia. Afghanistan is bordered by Pakistan in the south and east; Iran in the west; Turkmenistan, Uzbekistan, and Tajikistan in the north; and in the far northeast, China. Its territory covers 652,000 square kilometers (252,000 sq mi) and much of it is covered by the Hindu Kush mountain range, which experience very cold winters. The north consists of fertile plains, whilst the south-west consists of deserts where temperatures can get very hot in summers. Kabul serves as the capital and its largest city.
+
+Human habitation in Afghanistan dates back to the Middle Paleolithic Era, and the country's strategic location along the Silk Road connected it to the cultures of the Middle East and other parts of Asia. The land has historically been home to various peoples and has witnessed numerous military campaigns, including those by Alexander the Great, Mauryas, Muslim Arabs, Mongols, British, Soviet, and since 2001 by the United States with NATO-allied countries. It has been called &#34;unconquerable&#34; and nicknamed the &#34;graveyard of empires&#34;. The land also served as the source from which the Kushans, Hephthalites, Samanids, Saffarids, Ghaznavids, Ghorids, Khaljis, Mughals, Hotaks, Durranis, and others have risen to form major empires.
+
+The political history of the modern state of Afghanistan began with the Hotak and Durrani dynasties in the 18th century. In the late 19th century, Afghanistan became a buffer state in the &#34;Great Game&#34; between British India and the Russian Empire. Its border with British India, the Durand Line, was formed in 1893 but it is not recognized by the Afghan government and it has led to strained relations with Pakistan since the latter's independence in 1947. Following the Third Anglo-Afghan War in 1919 the country was free of foreign influence, eventually becoming a monarchy under King Amanullah, and later for 40 years under Zahir Shah. In the late 1970s, Afghanistan in a series of coups first became a socialist state and then a Soviet Union protectorate. This evoked the Soviet–Afghan War in the 1980s against rebels. By 1996 most of Afghanistan was captured by the fundamentalist Islamic group the Taliban, who ruled most of the country as a totalitarian regime for almost five years. The Taliban were forcibly removed by the NATO-led coalition, and a new democratically-elected government political structure was formed.
+
+Afghanistan is a unitary presidential Islamic republic with a population of 35 million, mostly composed of ethnic Pashtuns, Tajiks, Hazaras and Uzbeks. It is a member of the United Nations, the Organisation of Islamic Cooperation, the Group of 77, the Economic Cooperation Organization, and the Non-Aligned Movement. Afghanistan's economy is the world's 108th largest, with a GDP of $64.08 billion; the country fares much worse in terms of per-capita GDP (PPP), ranking 167th out of 186 countries in a 2016 report from the International Monetary Fund.
+
+</resourceData>
+		</occurrence>
 	</topic>
 </topicMap>
